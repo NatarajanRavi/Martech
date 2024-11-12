@@ -1,9 +1,10 @@
 from flask import Flask, request, render_template, jsonify
 from model import predict_customer_category
 from email_templates import generate_campaign_email
-app = Flask(__name__, 
-            static_folder='C:\\Users\\r_nra\\python\\case_study\\martech\\templates\\static',
-            static_url_path='/static')
+
+app = Flask(__name__,
+            template_folder='C:\\Users\\r_nra\\python\\case_study\\martech\\templates',
+            static_folder='C:\\Users\\r_nra\\python\\case_study\\martech\\static')
 
 # Route to render the home page
 @app.route('/')
@@ -29,7 +30,10 @@ def predict():
     }
 
     predicted_label = predict_customer_category(sample_data)
-    
+
+    # Convert NumPy int64 to Python int
+    predicted_label = int(predicted_label)
+
     return jsonify({'predicted_category': predicted_label})
 
 # Route to generate the email based on predicted category
