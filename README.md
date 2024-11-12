@@ -6,5 +6,23 @@ Personalized Messaging: Crafting messages tailored to the interests and�
 Visual Creatives: Designing visuals that appeal to the aesthetic preferences of each persona.
 Channel Optimization: Selecting the most effective communication channels for each persona.
 The AI-generated content ensured alignment with the bank’s brand voice and standards, evaluated based on deployable solutions, code quality, campaign quality, model accuracy, and speed.
-![image](https://github.com/user-attachments/assets/4e9e610c-6880-4fa2-b99d-625ad8e28861)
+
+Below are the steps (preferably in VS Code IDE):
+Step 1:
+Fork the code to local machine and ensure all the following files saved:
+
+
+Step 2:
+Install all the necessary libraries from requirements.txt
+
+Step 3:
+Run each cells in the notebook (campaign_optimized.ipynb) to get the trained model pickle file. Validate the model accuracy is 73%
+
+Step 4:
+Confirm the necessary pkl files are created in the right folder for Model Inferencing and Label encoding
+
+Step 5:
+Open terminal and run the 
+
+
 
