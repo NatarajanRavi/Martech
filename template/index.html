@@ -1,1 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AustralianBank Campaign Email Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+        }
+        .logo {
+            text-align: center;
+        }
+        .logo img {
+            width: 100px;
+        }
+        .title {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .section {
+            margin: 20px 0;
+        }
+        .predicted-output {
+            color: blue;
+            font-weight: bold;
+            background-color: #f0f0f0;
+            padding: 5px;
+            border-radius: 
+        }
+        .generated-email {
+            color: green;
+            font-weight: bold;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>    
+<body>
+    <div class="container">
+        <div class="logo">
+            <img src="/static/Designer.jpeg" alt="Bank Logo">
+        </div>
+        <div class="title">Australian Bank Campaign Email Generator</div>
+        <div class="section">
+            <h2>Input</h2>
+            <form id="predictionForm">
+                <label for="age">Age:</label>
+                <input type="number" id="age" name="age" required><br><br>
+                
+                <label for="transaction_history">Transaction History:</label>
+                <input type="number" id="transaction_history" name="transaction_history" required><br><br>
+                
+                <label for="location">Location:</label>
+                <select id="location" name="location" required>
+                    <option value="Sydney">Sydney</option>
+                    <option value="Melbourne">Melbourne</option>
+                    <option value="Brisbane">Brisbane</option>
+                    <option value="Perth">Perth</option>
+                    <option value="Adelaide">Adelaide</option>
+                    <option value="Hobart">Hobart</option>
+                </select><br><br>
+                
+                <label for="interests">Interests:</label>
+                <select id="interests" name="interests" required>
+                    <option value="Sports">Sports</option>
+                    <option value="Tech">Tech</option>
+                    <option value="Travel">Travel</option>
+                    <option value="Music">Music</option>
+                    <option value="Finance">Finance</option>
+                    <option value="Fashion">Fashion</option>
+                </select><br><br>
+                
+                <label for="lifestyle">Lifestyle:</label>
+                <select id="lifestyle" name="lifestyle" required>
+                    <option value="Family-Oriented">Family-Oriented</option>
+                    <option value="Single">Single</option>
+                    <option value="Retired">Retired</option>
+                    <option value="Student">Student</option>
+                    <option value="Business Owner">Business Owner</option>
+                </select><br><br>
+                <button type="button" id="predictButton">Predict Category</button>
+            </form>
+        </div>
+        <div class="section"
+            <h2>Predicted Category:</h2>
+            <p id="predictedCategory" class="predicted-output"></p>
+            <button type="button" id="generateEmailButton" style="display:none;">Generate Email</button>
+        </div>
 
+        <div class="section">
+            <h2>Generated Email</h2>
+            <p id="emailContent" class="generated-email"></p>
+            <button type="button" id="sendOutlookEmailButton" style="display:none;">Send Email via Outlook</button>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('predictButton').addEventListener('click', function() {
+            const age = document.getElementById('age').value;
+            const transaction_history = document.getElementById('transaction_history').value;
+            const location = document.getElementById('location').value;
+            const interests = document.getElementById('interests').value;
+            const lifestyle = document.getElementById('lifestyle').value;
+            
+            const data = {
+                age: age,
+                transaction_history: transaction_history,
+                location: location,
+                interests: interests,
+                lifestyle: lifestyle
+            };
+            
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('predictedCategory').innerText = data.predicted_category;
+                document.getElementById('generateEmailButton').style.display = 'block';
+                
+                document.getElementById('generateEmailButton').onclick = function() {
+                    fetch('/generate_email', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({ target_audience: data.predicted_category })
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        document.getElementById('emailContent').innerText = data.email_content;
+                        document.getElementById('sendOutlookEmailButton').style.display = 'block';
+                    });
+                };
+            });
+        });
+
+        document.getElementById('sendOutlookEmailButton').addEventListener('click', function() {
+            const subject = document.getElementById('predictedCategory').innerText;
+            const body = document.getElementById('emailContent').innerText;
+            const mailtoLink = `mailto:?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+            
+            window.location.href = mailtoLink;
+        });
+    </script>
+</body>
+</html>
