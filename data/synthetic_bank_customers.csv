@@ -1,1 +1,1001 @@
-
+Customer ID,Name,Age,Gender,Location,Transaction History,Online Behavior,Interests,Values,Lifestyle,Target
+CUS0000,Customer 0,65,Male,Sydney,25071.54,Active,Fashion,Security,Family-Oriented,High Networth Individuals
+CUS0001,Customer 1,59,Female,Brisbane,31374.83,Passive,Finance,Low Fees,Family-Oriented,High Networth Individuals
+CUS0002,Customer 2,19,Male,Perth,25359.02,Passive,Tech,Convenience,Student,Students
+CUS0003,Customer 3,38,Male,Adelaide,2383.76,Passive,Finance,Customer Service,Business Owner,Small business
+CUS0004,Customer 4,77,Male,Brisbane,39319.09,Passive,Fashion,Customer Service,Business Owner,High Networth Individuals
+CUS0005,Customer 5,47,Male,Sydney,10788.4,Passive,Sports,Security,Single,Young clients
+CUS0006,Customer 6,52,Non-binary,Perth,19883.13,Active,Finance,Convenience,Family-Oriented,High Networth Individuals
+CUS0007,Customer 7,27,Female,Hobart,13484.77,Active,Finance,Security,Single,Single
+CUS0008,Customer 8,79,Male,Melbourne,14641.13,Passive,Tech,Customer Service,Retired,Family
+CUS0009,Customer 9,25,Non-binary,Hobart,8184.3,Active,Travel,Convenience,Single,Single
+CUS0010,Customer 10,45,Male,Hobart,16412.27,Active,Music,Low Fees,Student,High Networth Individuals
+CUS0011,Customer 11,59,Male,Adelaide,15648.01,Active,Sports,Customer Service,Retired,High Networth Individuals
+CUS0012,Customer 12,76,Female,Sydney,7587.58,Passive,Fashion,Customer Service,Family-Oriented,Small business
+CUS0013,Customer 13,65,Female,Brisbane,11753.82,Passive,Travel,Security,Business Owner,High Networth Individuals
+CUS0014,Customer 14,32,Male,Hobart,46236.22,Active,Finance,Low Fees,Business Owner,Young clients
+CUS0015,Customer 15,76,Female,Melbourne,3490.66,Active,Finance,Innovation,Family-Oriented,Family
+CUS0016,Customer 16,20,Non-binary,Adelaide,40027.51,Passive,Music,Innovation,Single,Young clients
+CUS0017,Customer 17,40,Non-binary,Hobart,42666.25,Active,Fashion,Convenience,Single,High Networth Individuals
+CUS0018,Customer 18,37,Male,Sydney,15214.35,Passive,Travel,Low Fees,Business Owner,Tech savvy customer
+CUS0019,Customer 19,45,Male,Brisbane,36711.94,Passive,Sports,Innovation,Student,High Networth Individuals
+CUS0020,Customer 20,58,Female,Hobart,33757.09,Passive,Finance,Security,Retired,High Networth Individuals
+CUS0021,Customer 21,59,Non-binary,Adelaide,3824.78,Passive,Music,Innovation,Retired,Single
+CUS0022,Customer 22,53,Male,Perth,29348.25,Active,Sports,Convenience,Family-Oriented,High Networth Individuals
+CUS0023,Customer 23,29,Male,Brisbane,49817.28,Active,Finance,Low Fees,Business Owner,Family
+CUS0024,Customer 24,24,Male,Adelaide,31478.84,Active,Finance,Convenience,Single,Single
+CUS0025,Customer 25,64,Female,Sydney,46087.71,Active,Tech,Convenience,Family-Oriented,High Networth Individuals
+CUS0026,Customer 26,59,Female,Perth,26905.26,Active,Finance,Convenience,Family-Oriented,High Networth Individuals
+CUS0027,Customer 27,50,Non-binary,Sydney,2676.68,Passive,Tech,Security,Family-Oriented,Small business
+CUS0028,Customer 28,33,Non-binary,Melbourne,8225.97,Passive,Travel,Low Fees,Single,Single
+CUS0029,Customer 29,58,Male,Hobart,1238.83,Active,Sports,Convenience,Retired,Tech savvy customer
+CUS0030,Customer 30,28,Female,Sydney,29975.39,Passive,Fashion,Security,Student,High Networth Individuals
+CUS0031,Customer 31,71,Female,Adelaide,22996.14,Passive,Tech,Low Fees,Business Owner,Young clients
+CUS0032,Customer 32,22,Male,Sydney,5818.31,Passive,Tech,Convenience,Student,Young clients
+CUS0033,Customer 33,18,Non-binary,Sydney,29534.64,Passive,Music,Innovation,Student,Students
+CUS0034,Customer 34,34,Non-binary,Sydney,8103.55,Passive,Music,Innovation,Family-Oriented,Tech savvy customer
+CUS0035,Customer 35,69,Female,Perth,43217.84,Active,Sports,Security,Retired,High Networth Individuals
+CUS0036,Customer 36,66,Female,Hobart,16671.34,Active,Sports,Low Fees,Student,High Networth Individuals
+CUS0037,Customer 37,49,Male,Adelaide,32786.67,Active,Sports,Convenience,Single,High Networth Individuals
+CUS0038,Customer 38,51,Male,Brisbane,16155.18,Passive,Tech,Convenience,Family-Oriented,High Networth Individuals
+CUS0039,Customer 39,60,Non-binary,Melbourne,1204.96,Active,Sports,Security,Family-Oriented,Tech savvy customer
+CUS0040,Customer 40,61,Non-binary,Brisbane,46082.52,Passive,Finance,Convenience,Family-Oriented,High Networth Individuals
+CUS0041,Customer 41,65,Female,Sydney,36479.73,Passive,Travel,Low Fees,Family-Oriented,High Networth Individuals
+CUS0042,Customer 42,20,Male,Brisbane,31453.72,Passive,Travel,Low Fees,Single,Single
+CUS0043,Customer 43,46,Non-binary,Melbourne,6018.87,Active,Finance,Security,Single,Small business
+CUS0044,Customer 44,68,Male,Sydney,40099.63,Passive,Finance,Low Fees,Business Owner,High Networth Individuals
+CUS0045,Customer 45,28,Female,Melbourne,23495.09,Active,Sports,Security,Single,Single
+CUS0046,Customer 46,62,Female,Hobart,22629.51,Active,Music,Security,Retired,High Networth Individuals
+CUS0047,Customer 47,56,Female,Brisbane,5124.67,Passive,Fashion,Customer Service,Retired,Young clients
+CUS0048,Customer 48,58,Non-binary,Perth,44655.79,Active,Finance,Innovation,Retired,High Networth Individuals
+CUS0049,Customer 49,30,Male,Melbourne,43880.05,Passive,Music,Convenience,Family-Oriented,High Networth Individuals
+CUS0050,Customer 50,56,Male,Hobart,7433.65,Passive,Sports,Security,Business Owner,Small business
+CUS0051,Customer 51,38,Female,Adelaide,35066.02,Active,Tech,Low Fees,Single,Single
+CUS0052,Customer 52,32,Female,Sydney,40313.24,Active,Tech,Security,Business Owner,High Networth Individuals
+CUS0053,Customer 53,54,Female,Hobart,14774.03,Passive,Travel,Convenience,Single,Young clients
+CUS0054,Customer 54,47,Male,Hobart,26874.88,Passive,Sports,Customer Service,Business Owner,Tech savvy customer
+CUS0055,Customer 55,61,Male,Hobart,28172.08,Active,Finance,Security,Single,High Networth Individuals
+CUS0056,Customer 56,45,Female,Hobart,22909.61,Passive,Travel,Innovation,Student,High Networth Individuals
+CUS0057,Customer 57,21,Male,Perth,26345.45,Passive,Tech,Customer Service,Family-Oriented,Frequent traveller
+CUS0058,Customer 58,73,Male,Adelaide,33551.92,Passive,Finance,Low Fees,Student,High Networth Individuals
+CUS0059,Customer 59,22,Male,Sydney,47683.5,Active,Finance,Customer Service,Business Owner,Students
+CUS0060,Customer 60,28,Male,Adelaide,34992.5,Passive,Fashion,Low Fees,Single,Single
+CUS0061,Customer 61,38,Female,Melbourne,44414.65,Passive,Fashion,Innovation,Business Owner,Frequent traveller
+CUS0062,Customer 62,59,Male,Perth,32660.86,Passive,Sports,Security,Student,High Networth Individuals
+CUS0063,Customer 63,72,Female,Adelaide,18330.01,Passive,Fashion,Innovation,Retired,High Networth Individuals
+CUS0064,Customer 64,52,Non-binary,Melbourne,48320.38,Passive,Finance,Convenience,Student,High Networth Individuals
+CUS0065,Customer 65,24,Female,Brisbane,2751.21,Passive,Music,Customer Service,Family-Oriented,Young clients
+CUS0066,Customer 66,45,Non-binary,Brisbane,10335.45,Passive,Travel,Customer Service,Single,Small business
+CUS0067,Customer 67,41,Non-binary,Sydney,48759.68,Passive,Sports,Security,Business Owner,High Networth Individuals
+CUS0068,Customer 68,50,Female,Perth,40273.35,Active,Tech,Customer Service,Student,High Networth Individuals
+CUS0069,Customer 69,33,Male,Adelaide,3254.32,Active,Music,Low Fees,Student,Young clients
+CUS0070,Customer 70,49,Non-binary,Sydney,22464.26,Passive,Music,Customer Service,Single,High Networth Individuals
+CUS0071,Customer 71,58,Male,Hobart,40499.03,Passive,Finance,Convenience,Family-Oriented,High Networth Individuals
+CUS0072,Customer 72,70,Female,Hobart,7574.58,Passive,Finance,Customer Service,Business Owner,Young clients
+CUS0073,Customer 73,60,Male,Sydney,39477.87,Active,Music,Customer Service,Family-Oriented,High Networth Individuals
+CUS0074,Customer 74,67,Male,Melbourne,6763.67,Passive,Fashion,Customer Service,Single,Tech savvy customer
+CUS0075,Customer 75,70,Non-binary,Brisbane,4662.67,Passive,Travel,Security,Student,Young clients
+CUS0076,Customer 76,36,Non-binary,Sydney,5492.41,Passive,Tech,Low Fees,Student,Young clients
+CUS0077,Customer 77,22,Female,Brisbane,25754.8,Active,Music,Convenience,Single,Young clients
+CUS0078,Customer 78,70,Male,Perth,23142.09,Passive,Travel,Customer Service,Single,High Networth Individuals
+CUS0079,Customer 79,52,Male,Sydney,48470.59,Passive,Finance,Security,Student,High Networth Individuals
+CUS0080,Customer 80,69,Non-binary,Hobart,47517.66,Active,Finance,Innovation,Single,High Networth Individuals
+CUS0081,Customer 81,27,Female,Melbourne,26454.67,Active,Tech,Customer Service,Student,High Networth Individuals
+CUS0082,Customer 82,27,Male,Melbourne,12672.04,Active,Tech,Customer Service,Family-Oriented,High Networth Individuals
+CUS0083,Customer 83,35,Non-binary,Sydney,3572.92,Passive,Finance,Convenience,Family-Oriented,Single
+CUS0084,Customer 84,57,Male,Adelaide,42586.43,Active,Travel,Customer Service,Business Owner,Family
+CUS0085,Customer 85,25,Male,Perth,5600.79,Passive,Finance,Customer Service,Student,Young clients
+CUS0086,Customer 86,65,Female,Adelaide,33823.13,Active,Music,Customer Service,Family-Oriented,High Networth Individuals
+CUS0087,Customer 87,35,Non-binary,Hobart,32649.08,Passive,Travel,Security,Student,High Networth Individuals
+CUS0088,Customer 88,51,Non-binary,Hobart,5454.49,Active,Finance,Innovation,Student,Single
+CUS0089,Customer 89,41,Female,Sydney,38590.36,Active,Finance,Low Fees,Family-Oriented,High Networth Individuals
+CUS0090,Customer 90,46,Female,Perth,33072.44,Active,Fashion,Low Fees,Student,High Networth Individuals
+CUS0091,Customer 91,35,Female,Melbourne,49516.58,Active,Tech,Convenience,Family-Oriented,High Networth Individuals
+CUS0092,Customer 92,78,Male,Adelaide,22644.86,Passive,Music,Customer Service,Retired,High Networth Individuals
+CUS0093,Customer 93,20,Non-binary,Brisbane,23795.04,Active,Music,Convenience,Business Owner,High Networth Individuals
+CUS0094,Customer 94,22,Non-binary,Hobart,24370.35,Passive,Music,Security,Business Owner,High Networth Individuals
+CUS0095,Customer 95,58,Female,Brisbane,27459.17,Active,Tech,Low Fees,Single,High Networth Individuals
+CUS0096,Customer 96,49,Male,Sydney,5592.17,Active,Sports,Innovation,Business Owner,Small business
+CUS0097,Customer 97,56,Non-binary,Adelaide,7650.59,Active,Tech,Security,Family-Oriented,Small business
+CUS0098,Customer 98,74,Female,Perth,6407.01,Passive,Finance,Convenience,Business Owner,Tech savvy customer
+CUS0099,Customer 99,54,Female,Sydney,38532.64,Active,Music,Innovation,Retired,High Networth Individuals
+CUS0100,Customer 100,41,Male,Sydney,33970.4,Active,Music,Customer Service,Family-Oriented,High Networth Individuals
+CUS0101,Customer 101,67,Female,Perth,28807.13,Active,Sports,Security,Family-Oriented,High Networth Individuals
+CUS0102,Customer 102,18,Non-binary,Hobart,2309.95,Passive,Travel,Customer Service,Business Owner,Frequent traveller
+CUS0103,Customer 103,45,Non-binary,Hobart,24941.74,Active,Fashion,Security,Family-Oriented,High Networth Individuals
+CUS0104,Customer 104,64,Male,Hobart,46231.01,Passive,Finance,Innovation,Student,High Networth Individuals
+CUS0105,Customer 105,45,Male,Hobart,40421.64,Passive,Tech,Innovation,Single,High Networth Individuals
+CUS0106,Customer 106,48,Male,Adelaide,38442.39,Passive,Travel,Convenience,Business Owner,High Networth Individuals
+CUS0107,Customer 107,68,Non-binary,Melbourne,2005.12,Passive,Tech,Innovation,Student,Tech savvy customer
+CUS0108,Customer 108,51,Non-binary,Melbourne,34794.91,Active,Travel,Security,Retired,High Networth Individuals
+CUS0109,Customer 109,43,Non-binary,Melbourne,27857.11,Passive,Finance,Innovation,Student,High Networth Individuals
+CUS0110,Customer 110,40,Male,Hobart,43290.57,Passive,Sports,Innovation,Single,High Networth Individuals
+CUS0111,Customer 111,74,Non-binary,Melbourne,23414.75,Passive,Fashion,Low Fees,Single,High Networth Individuals
+CUS0112,Customer 112,79,Female,Adelaide,43809.41,Active,Finance,Innovation,Business Owner,Frequent traveller
+CUS0113,Customer 113,64,Female,Sydney,6105.43,Active,Travel,Security,Family-Oriented,Family
+CUS0114,Customer 114,43,Female,Brisbane,49732.61,Active,Fashion,Security,Family-Oriented,High Networth Individuals
+CUS0115,Customer 115,29,Male,Hobart,48308.92,Active,Finance,Customer Service,Student,High Networth Individuals
+CUS0116,Customer 116,66,Non-binary,Brisbane,3598.74,Active,Music,Convenience,Single,Tech savvy customer
+CUS0117,Customer 117,64,Non-binary,Hobart,40921.44,Active,Travel,Low Fees,Retired,High Networth Individuals
+CUS0118,Customer 118,43,Female,Hobart,21926.4,Passive,Fashion,Low Fees,Student,High Networth Individuals
+CUS0119,Customer 119,18,Non-binary,Brisbane,23002.52,Passive,Travel,Convenience,Business Owner,Small business
+CUS0120,Customer 120,70,Non-binary,Adelaide,2193.1,Active,Tech,Customer Service,Student,Single
+CUS0121,Customer 121,22,Male,Adelaide,15872.25,Passive,Tech,Customer Service,Single,Small business
+CUS0122,Customer 122,73,Female,Adelaide,9007.18,Active,Fashion,Convenience,Student,Small business
+CUS0123,Customer 123,22,Female,Melbourne,43248.73,Passive,Travel,Low Fees,Student,Frequent traveller
+CUS0124,Customer 124,43,Male,Hobart,10298.68,Active,Travel,Customer Service,Family-Oriented,Tech savvy customer
+CUS0125,Customer 125,21,Male,Melbourne,4306.18,Active,Travel,Customer Service,Family-Oriented,Young clients
+CUS0126,Customer 126,62,Non-binary,Hobart,34646.42,Active,Sports,Low Fees,Retired,High Networth Individuals
+CUS0127,Customer 127,28,Non-binary,Sydney,24342.34,Active,Fashion,Low Fees,Business Owner,Frequent traveller
+CUS0128,Customer 128,48,Non-binary,Brisbane,46706.43,Active,Fashion,Convenience,Student,High Networth Individuals
+CUS0129,Customer 129,51,Female,Sydney,47645.7,Passive,Fashion,Low Fees,Business Owner,Family
+CUS0130,Customer 130,68,Male,Sydney,8816.7,Passive,Tech,Low Fees,Student,Family
+CUS0131,Customer 131,60,Non-binary,Melbourne,20294.95,Passive,Sports,Security,Business Owner,Small business
+CUS0132,Customer 132,48,Non-binary,Perth,48872.04,Passive,Fashion,Convenience,Business Owner,Frequent traveller
+CUS0133,Customer 133,79,Female,Melbourne,30223.13,Passive,Fashion,Low Fees,Student,High Networth Individuals
+CUS0134,Customer 134,34,Non-binary,Adelaide,40225.47,Active,Music,Innovation,Student,High Networth Individuals
+CUS0135,Customer 135,73,Non-binary,Hobart,23314.7,Active,Sports,Convenience,Family-Oriented,High Networth Individuals
+CUS0136,Customer 136,31,Non-binary,Melbourne,39244.86,Passive,Finance,Low Fees,Business Owner,High Networth Individuals
+CUS0137,Customer 137,73,Male,Hobart,48085.76,Passive,Travel,Innovation,Single,High Networth Individuals
+CUS0138,Customer 138,25,Male,Melbourne,34700.3,Passive,Fashion,Innovation,Business Owner,Frequent traveller
+CUS0139,Customer 139,59,Female,Sydney,16299.86,Passive,Sports,Customer Service,Business Owner,Family
+CUS0140,Customer 140,56,Female,Adelaide,40516.17,Passive,Fashion,Security,Retired,High Networth Individuals
+CUS0141,Customer 141,63,Non-binary,Perth,3225.15,Active,Fashion,Convenience,Single,Small business
+CUS0142,Customer 142,74,Male,Melbourne,33408.59,Active,Sports,Low Fees,Student,High Networth Individuals
+CUS0143,Customer 143,63,Female,Adelaide,44358.52,Active,Finance,Convenience,Retired,High Networth Individuals
+CUS0144,Customer 144,63,Non-binary,Melbourne,42924.17,Active,Tech,Low Fees,Retired,High Networth Individuals
+CUS0145,Customer 145,44,Male,Perth,45052.57,Passive,Tech,Customer Service,Single,High Networth Individuals
+CUS0146,Customer 146,53,Female,Melbourne,38109.16,Passive,Finance,Security,Family-Oriented,High Networth Individuals
+CUS0147,Customer 147,53,Female,Adelaide,5449.47,Active,Travel,Customer Service,Business Owner,Family
+CUS0148,Customer 148,79,Male,Perth,33879.08,Passive,Music,Convenience,Business Owner,High Networth Individuals
+CUS0149,Customer 149,20,Female,Melbourne,4683.76,Passive,Fashion,Customer Service,Family-Oriented,Young clients
+CUS0150,Customer 150,53,Male,Melbourne,25781.92,Active,Finance,Customer Service,Student,High Networth Individuals
+CUS0151,Customer 151,20,Non-binary,Adelaide,36935.01,Passive,Fashion,Security,Business Owner,High Networth Individuals
+CUS0152,Customer 152,28,Male,Sydney,33271.32,Passive,Travel,Low Fees,Family-Oriented,High Networth Individuals
+CUS0153,Customer 153,45,Female,Perth,41261.45,Passive,Travel,Customer Service,Student,High Networth Individuals
+CUS0154,Customer 154,48,Non-binary,Brisbane,10794.42,Passive,Sports,Customer Service,Business Owner,Single
+CUS0155,Customer 155,59,Female,Brisbane,47056.41,Passive,Music,Convenience,Student,High Networth Individuals
+CUS0156,Customer 156,36,Male,Sydney,46528.61,Passive,Fashion,Customer Service,Student,High Networth Individuals
+CUS0157,Customer 157,28,Female,Hobart,13645.58,Passive,Travel,Innovation,Family-Oriented,Small business
+CUS0158,Customer 158,21,Non-binary,Adelaide,20382.13,Passive,Travel,Low Fees,Single,Single
+CUS0159,Customer 159,40,Non-binary,Hobart,7887.23,Active,Travel,Innovation,Single,Frequent traveller
+CUS0160,Customer 160,44,Non-binary,Perth,32015.05,Passive,Tech,Low Fees,Single,High Networth Individuals
+CUS0161,Customer 161,42,Male,Hobart,21191.22,Passive,Fashion,Security,Single,High Networth Individuals
+CUS0162,Customer 162,42,Non-binary,Brisbane,15875.82,Active,Finance,Innovation,Family-Oriented,High Networth Individuals
+CUS0163,Customer 163,78,Female,Adelaide,17368.15,Passive,Sports,Security,Single,High Networth Individuals
+CUS0164,Customer 164,30,Female,Adelaide,16036.22,Passive,Sports,Low Fees,Family-Oriented,High Networth Individuals
+CUS0165,Customer 165,52,Female,Sydney,34883.73,Passive,Sports,Low Fees,Retired,High Networth Individuals
+CUS0166,Customer 166,48,Non-binary,Brisbane,9038.3,Passive,Tech,Innovation,Single,Single
+CUS0167,Customer 167,73,Non-binary,Perth,46933.98,Passive,Tech,Innovation,Family-Oriented,High Networth Individuals
+CUS0168,Customer 168,60,Male,Sydney,11730.22,Passive,Sports,Security,Retired,Tech savvy customer
+CUS0169,Customer 169,75,Non-binary,Adelaide,29121.19,Active,Tech,Innovation,Student,High Networth Individuals
+CUS0170,Customer 170,76,Non-binary,Adelaide,26894.82,Passive,Music,Innovation,Family-Oriented,High Networth Individuals
+CUS0171,Customer 171,72,Male,Adelaide,12889.23,Active,Fashion,Customer Service,Retired,Young clients
+CUS0172,Customer 172,27,Non-binary,Hobart,19768.91,Active,Sports,Security,Family-Oriented,High Networth Individuals
+CUS0173,Customer 173,33,Non-binary,Hobart,28680.86,Passive,Fashion,Security,Family-Oriented,High Networth Individuals
+CUS0174,Customer 174,46,Female,Sydney,30880.43,Passive,Sports,Convenience,Family-Oriented,High Networth Individuals
+CUS0175,Customer 175,74,Female,Hobart,33328.85,Passive,Fashion,Convenience,Family-Oriented,High Networth Individuals
+CUS0176,Customer 176,57,Non-binary,Melbourne,48290.6,Active,Fashion,Customer Service,Business Owner,High Networth Individuals
+CUS0177,Customer 177,74,Male,Sydney,40953.13,Passive,Fashion,Low Fees,Family-Oriented,High Networth Individuals
+CUS0178,Customer 178,74,Male,Perth,38495.5,Passive,Travel,Customer Service,Business Owner,High Networth Individuals
+CUS0179,Customer 179,31,Female,Brisbane,5973.29,Active,Fashion,Convenience,Business Owner,Family
+CUS0180,Customer 180,45,Non-binary,Hobart,1490.81,Active,Finance,Innovation,Student,Frequent traveller
+CUS0181,Customer 181,30,Non-binary,Hobart,47080.08,Passive,Finance,Innovation,Single,Single
+CUS0182,Customer 182,62,Non-binary,Melbourne,24945.12,Active,Tech,Security,Retired,High Networth Individuals
+CUS0183,Customer 183,71,Female,Melbourne,7663.08,Active,Finance,Low Fees,Single,Small business
+CUS0184,Customer 184,27,Female,Sydney,25079.32,Passive,Tech,Innovation,Single,Single
+CUS0185,Customer 185,67,Female,Perth,11061.35,Active,Travel,Low Fees,Retired,High Networth Individuals
+CUS0186,Customer 186,36,Female,Melbourne,41826.64,Passive,Tech,Convenience,Family-Oriented,High Networth Individuals
+CUS0187,Customer 187,64,Female,Melbourne,46541.07,Active,Finance,Customer Service,Retired,High Networth Individuals
+CUS0188,Customer 188,45,Non-binary,Adelaide,48940.09,Passive,Tech,Low Fees,Single,High Networth Individuals
+CUS0189,Customer 189,68,Female,Sydney,32126.27,Passive,Finance,Innovation,Retired,High Networth Individuals
+CUS0190,Customer 190,28,Non-binary,Sydney,21016.8,Passive,Finance,Low Fees,Business Owner,Small business
+CUS0191,Customer 191,38,Female,Hobart,38972.04,Active,Sports,Convenience,Single,Single
+CUS0192,Customer 192,37,Female,Perth,28158.11,Active,Sports,Low Fees,Retired,High Networth Individuals
+CUS0193,Customer 193,27,Non-binary,Sydney,7508.59,Passive,Sports,Convenience,Family-Oriented,Frequent traveller
+CUS0194,Customer 194,77,Non-binary,Sydney,32113.29,Active,Sports,Security,Single,High Networth Individuals
+CUS0195,Customer 195,78,Non-binary,Hobart,6649.81,Active,Finance,Convenience,Family-Oriented,Tech savvy customer
+CUS0196,Customer 196,46,Non-binary,Sydney,17849.85,Passive,Fashion,Low Fees,Retired,High Networth Individuals
+CUS0197,Customer 197,33,Male,Perth,22710.08,Passive,Sports,Customer Service,Family-Oriented,High Networth Individuals
+CUS0198,Customer 198,36,Male,Adelaide,47628.22,Active,Sports,Low Fees,Student,High Networth Individuals
+CUS0199,Customer 199,80,Female,Adelaide,29684.12,Passive,Sports,Innovation,Family-Oriented,High Networth Individuals
+CUS0200,Customer 200,63,Non-binary,Hobart,32240.77,Passive,Sports,Customer Service,Family-Oriented,High Networth Individuals
+CUS0201,Customer 201,70,Male,Hobart,44196.25,Active,Music,Low Fees,Retired,High Networth Individuals
+CUS0202,Customer 202,58,Male,Hobart,39982.44,Passive,Sports,Innovation,Single,High Networth Individuals
+CUS0203,Customer 203,77,Female,Adelaide,9252.92,Passive,Music,Customer Service,Single,Family
+CUS0204,Customer 204,43,Non-binary,Perth,34797.14,Passive,Travel,Convenience,Single,High Networth Individuals
+CUS0205,Customer 205,52,Non-binary,Adelaide,33298.31,Passive,Fashion,Low Fees,Retired,High Networth Individuals
+CUS0206,Customer 206,48,Female,Adelaide,6523.06,Passive,Sports,Innovation,Family-Oriented,Family
+CUS0207,Customer 207,67,Male,Perth,28238.6,Active,Fashion,Customer Service,Single,High Networth Individuals
+CUS0208,Customer 208,62,Non-binary,Sydney,15039.84,Active,Travel,Customer Service,Student,High Networth Individuals
+CUS0209,Customer 209,30,Male,Adelaide,5689.81,Passive,Tech,Convenience,Family-Oriented,Family
+CUS0210,Customer 210,46,Male,Sydney,11179.25,Active,Fashion,Innovation,Business Owner,Small business
+CUS0211,Customer 211,65,Male,Sydney,45680.26,Active,Tech,Convenience,Business Owner,Young clients
+CUS0212,Customer 212,41,Non-binary,Hobart,28040.94,Active,Fashion,Customer Service,Family-Oriented,High Networth Individuals
+CUS0213,Customer 213,68,Female,Sydney,9456.37,Active,Finance,Innovation,Retired,Frequent traveller
+CUS0214,Customer 214,30,Male,Adelaide,35221.45,Active,Music,Customer Service,Business Owner,Tech savvy customer
+CUS0215,Customer 215,72,Non-binary,Sydney,27395.27,Passive,Music,Security,Business Owner,Small business
+CUS0216,Customer 216,24,Female,Hobart,44494.87,Active,Music,Security,Single,Single
+CUS0217,Customer 217,51,Female,Adelaide,49999.77,Passive,Sports,Innovation,Family-Oriented,High Networth Individuals
+CUS0218,Customer 218,34,Non-binary,Melbourne,18743.44,Active,Music,Customer Service,Retired,High Networth Individuals
+CUS0219,Customer 219,62,Male,Brisbane,33924.81,Active,Finance,Innovation,Single,High Networth Individuals
+CUS0220,Customer 220,73,Male,Sydney,13377.49,Passive,Tech,Low Fees,Family-Oriented,Young clients
+CUS0221,Customer 221,59,Female,Adelaide,29435.4,Passive,Tech,Convenience,Student,High Networth Individuals
+CUS0222,Customer 222,32,Non-binary,Adelaide,15785.39,Active,Travel,Innovation,Student,High Networth Individuals
+CUS0223,Customer 223,38,Non-binary,Brisbane,5002.18,Active,Tech,Customer Service,Family-Oriented,Small business
+CUS0224,Customer 224,75,Female,Brisbane,10417.39,Passive,Tech,Customer Service,Business Owner,High Networth Individuals
+CUS0225,Customer 225,21,Female,Sydney,45806,Passive,Finance,Security,Family-Oriented,Young clients
+CUS0226,Customer 226,73,Non-binary,Hobart,38483.56,Active,Travel,Low Fees,Business Owner,Small business
+CUS0227,Customer 227,56,Female,Melbourne,7162.48,Passive,Fashion,Security,Student,High Networth Individuals
+CUS0228,Customer 228,22,Male,Sydney,30924.58,Passive,Fashion,Security,Family-Oriented,Young clients
+CUS0229,Customer 229,65,Female,Brisbane,11497.27,Active,Finance,Low Fees,Single,Frequent traveller
+CUS0230,Customer 230,21,Female,Hobart,6556.27,Passive,Finance,Convenience,Single,Students
+CUS0231,Customer 231,40,Male,Brisbane,18270.31,Active,Tech,Convenience,Family-Oriented,High Networth Individuals
+CUS0232,Customer 232,46,Female,Hobart,17839.52,Active,Tech,Innovation,Business Owner,Family
+CUS0233,Customer 233,64,Male,Perth,37072.58,Active,Travel,Security,Retired,High Networth Individuals
+CUS0234,Customer 234,61,Non-binary,Sydney,31689.24,Active,Music,Innovation,Business Owner,Young clients
+CUS0235,Customer 235,43,Non-binary,Hobart,17450.11,Passive,Fashion,Innovation,Retired,High Networth Individuals
+CUS0236,Customer 236,77,Male,Hobart,40519.83,Active,Fashion,Convenience,Family-Oriented,High Networth Individuals
+CUS0237,Customer 237,63,Non-binary,Brisbane,10634.02,Active,Travel,Convenience,Student,Young clients
+CUS0238,Customer 238,60,Female,Sydney,6608.27,Active,Sports,Innovation,Student,Frequent traveller
+CUS0239,Customer 239,50,Female,Hobart,47645.12,Active,Sports,Customer Service,Business Owner,High Networth Individuals
+CUS0240,Customer 240,71,Female,Adelaide,36767.31,Active,Fashion,Security,Single,High Networth Individuals
+CUS0241,Customer 241,58,Male,Brisbane,27753.39,Active,Sports,Convenience,Family-Oriented,High Networth Individuals
+CUS0242,Customer 242,28,Male,Adelaide,45504.48,Passive,Music,Convenience,Single,Single
+CUS0243,Customer 243,55,Non-binary,Melbourne,3317.13,Active,Finance,Security,Single,Small business
+CUS0244,Customer 244,32,Non-binary,Perth,49429.36,Active,Music,Convenience,Business Owner,High Networth Individuals
+CUS0245,Customer 245,76,Male,Perth,4078.31,Passive,Tech,Convenience,Business Owner,High Networth Individuals
+CUS0246,Customer 246,59,Non-binary,Sydney,16095.82,Passive,Sports,Customer Service,Student,High Networth Individuals
+CUS0247,Customer 247,69,Female,Hobart,19384.97,Passive,Music,Innovation,Retired,High Networth Individuals
+CUS0248,Customer 248,48,Non-binary,Sydney,49679.99,Active,Tech,Convenience,Business Owner,Young clients
+CUS0249,Customer 249,48,Male,Melbourne,11092.65,Passive,Music,Low Fees,Student,Family
+CUS0250,Customer 250,25,Non-binary,Sydney,11954.01,Active,Sports,Convenience,Student,Young clients
+CUS0251,Customer 251,66,Female,Hobart,14301.72,Passive,Travel,Innovation,Business Owner,Family
+CUS0252,Customer 252,43,Non-binary,Brisbane,33409.16,Passive,Travel,Customer Service,Business Owner,High Networth Individuals
+CUS0253,Customer 253,65,Female,Brisbane,36797.22,Passive,Fashion,Customer Service,Business Owner,Frequent traveller
+CUS0254,Customer 254,30,Non-binary,Brisbane,29096.42,Active,Finance,Customer Service,Family-Oriented,High Networth Individuals
+CUS0255,Customer 255,71,Female,Perth,13008.91,Passive,Finance,Low Fees,Student,Tech savvy customer
+CUS0256,Customer 256,74,Male,Hobart,9391.31,Passive,Sports,Convenience,Retired,Small business
+CUS0257,Customer 257,65,Male,Perth,24222.61,Passive,Music,Customer Service,Single,High Networth Individuals
+CUS0258,Customer 258,21,Male,Melbourne,4842.48,Passive,Tech,Convenience,Student,Students
+CUS0259,Customer 259,59,Female,Adelaide,11195.38,Active,Sports,Low Fees,Family-Oriented,Family
+CUS0260,Customer 260,43,Female,Hobart,46500.61,Active,Finance,Convenience,Student,High Networth Individuals
+CUS0261,Customer 261,69,Male,Perth,48654.89,Passive,Tech,Customer Service,Single,High Networth Individuals
+CUS0262,Customer 262,74,Male,Hobart,2175.22,Passive,Fashion,Low Fees,Student,Small business
+CUS0263,Customer 263,57,Female,Perth,38814.74,Active,Sports,Innovation,Business Owner,High Networth Individuals
+CUS0264,Customer 264,43,Male,Perth,46467.14,Active,Fashion,Security,Business Owner,High Networth Individuals
+CUS0265,Customer 265,66,Non-binary,Brisbane,37204.73,Active,Travel,Low Fees,Student,High Networth Individuals
+CUS0266,Customer 266,41,Female,Hobart,44672.16,Passive,Tech,Customer Service,Student,High Networth Individuals
+CUS0267,Customer 267,57,Female,Perth,39082.75,Passive,Fashion,Customer Service,Student,High Networth Individuals
+CUS0268,Customer 268,75,Female,Hobart,33719.7,Active,Tech,Customer Service,Retired,High Networth Individuals
+CUS0269,Customer 269,31,Non-binary,Melbourne,6827.78,Active,Music,Convenience,Student,Tech savvy customer
+CUS0270,Customer 270,33,Female,Brisbane,45905.13,Active,Music,Customer Service,Single,High Networth Individuals
+CUS0271,Customer 271,61,Male,Hobart,4115.53,Active,Sports,Innovation,Retired,Tech savvy customer
+CUS0272,Customer 272,77,Male,Sydney,30754.56,Active,Finance,Convenience,Student,High Networth Individuals
+CUS0273,Customer 273,48,Non-binary,Adelaide,5580.12,Active,Fashion,Security,Student,High Networth Individuals
+CUS0274,Customer 274,68,Male,Brisbane,3911.8,Passive,Tech,Security,Single,Small business
+CUS0275,Customer 275,27,Female,Sydney,8242.03,Passive,Fashion,Convenience,Student,Tech savvy customer
+CUS0276,Customer 276,42,Male,Sydney,37063.27,Passive,Finance,Convenience,Student,High Networth Individuals
+CUS0277,Customer 277,56,Non-binary,Brisbane,37874.72,Passive,Sports,Innovation,Family-Oriented,High Networth Individuals
+CUS0278,Customer 278,78,Non-binary,Perth,44559.03,Passive,Tech,Low Fees,Retired,High Networth Individuals
+CUS0279,Customer 279,73,Male,Sydney,29748.47,Passive,Music,Low Fees,Retired,High Networth Individuals
+CUS0280,Customer 280,24,Non-binary,Perth,33030.5,Passive,Finance,Convenience,Business Owner,High Networth Individuals
+CUS0281,Customer 281,71,Male,Melbourne,30139.02,Active,Music,Security,Retired,High Networth Individuals
+CUS0282,Customer 282,55,Non-binary,Perth,49085.27,Passive,Sports,Convenience,Retired,High Networth Individuals
+CUS0283,Customer 283,53,Male,Adelaide,11517.05,Passive,Sports,Customer Service,Family-Oriented,Family
+CUS0284,Customer 284,57,Male,Adelaide,15626.2,Active,Sports,Customer Service,Student,High Networth Individuals
+CUS0285,Customer 285,74,Non-binary,Brisbane,31556.57,Active,Travel,Innovation,Business Owner,High Networth Individuals
+CUS0286,Customer 286,35,Female,Adelaide,42191.79,Active,Travel,Low Fees,Family-Oriented,High Networth Individuals
+CUS0287,Customer 287,49,Non-binary,Sydney,2284.35,Passive,Travel,Convenience,Family-Oriented,Single
+CUS0288,Customer 288,21,Male,Hobart,32382.34,Active,Travel,Innovation,Single,Single
+CUS0289,Customer 289,62,Female,Adelaide,25436.28,Passive,Music,Security,Retired,High Networth Individuals
+CUS0290,Customer 290,40,Female,Melbourne,14590.27,Active,Music,Innovation,Family-Oriented,Family
+CUS0291,Customer 291,31,Non-binary,Brisbane,12551.05,Passive,Travel,Customer Service,Single,Single
+CUS0292,Customer 292,35,Male,Perth,39845.82,Active,Finance,Customer Service,Business Owner,Tech savvy customer
+CUS0293,Customer 293,57,Female,Hobart,41042.7,Active,Sports,Customer Service,Retired,High Networth Individuals
+CUS0294,Customer 294,75,Male,Adelaide,49407.16,Active,Music,Low Fees,Single,High Networth Individuals
+CUS0295,Customer 295,71,Non-binary,Melbourne,36390.65,Active,Fashion,Customer Service,Family-Oriented,High Networth Individuals
+CUS0296,Customer 296,54,Male,Brisbane,14284.32,Active,Travel,Convenience,Business Owner,Tech savvy customer
+CUS0297,Customer 297,69,Male,Perth,29075.49,Passive,Sports,Customer Service,Business Owner,Family
+CUS0298,Customer 298,61,Male,Perth,9708.49,Passive,Finance,Security,Family-Oriented,High Networth Individuals
+CUS0299,Customer 299,40,Female,Sydney,16085.18,Active,Music,Low Fees,Single,High Networth Individuals
+CUS0300,Customer 300,80,Male,Hobart,26596.72,Passive,Travel,Convenience,Single,High Networth Individuals
+CUS0301,Customer 301,42,Female,Hobart,3209.54,Active,Sports,Security,Business Owner,Small business
+CUS0302,Customer 302,36,Male,Melbourne,26358.84,Active,Finance,Customer Service,Business Owner,Frequent traveller
+CUS0303,Customer 303,44,Non-binary,Melbourne,40150.54,Passive,Travel,Innovation,Business Owner,High Networth Individuals
+CUS0304,Customer 304,57,Female,Perth,28778.52,Active,Music,Low Fees,Single,High Networth Individuals
+CUS0305,Customer 305,48,Female,Adelaide,11976.18,Passive,Tech,Convenience,Student,Frequent traveller
+CUS0306,Customer 306,37,Non-binary,Brisbane,14013.62,Active,Travel,Innovation,Business Owner,Frequent traveller
+CUS0307,Customer 307,26,Male,Brisbane,45316.18,Passive,Tech,Security,Family-Oriented,High Networth Individuals
+CUS0308,Customer 308,49,Female,Adelaide,42031.38,Active,Music,Low Fees,Student,High Networth Individuals
+CUS0309,Customer 309,69,Non-binary,Melbourne,21336.17,Passive,Tech,Low Fees,Single,High Networth Individuals
+CUS0310,Customer 310,70,Non-binary,Perth,35080.91,Active,Music,Innovation,Family-Oriented,High Networth Individuals
+CUS0311,Customer 311,51,Non-binary,Sydney,7213.13,Passive,Finance,Convenience,Family-Oriented,High Networth Individuals
+CUS0312,Customer 312,52,Female,Sydney,9275.47,Passive,Music,Security,Student,Frequent traveller
+CUS0313,Customer 313,75,Male,Perth,32676.97,Active,Finance,Innovation,Retired,High Networth Individuals
+CUS0314,Customer 314,32,Female,Perth,13417.76,Passive,Finance,Convenience,Family-Oriented,Tech savvy customer
+CUS0315,Customer 315,23,Male,Sydney,47277.03,Passive,Travel,Convenience,Business Owner,Small business
+CUS0316,Customer 316,24,Female,Brisbane,7975.34,Passive,Finance,Low Fees,Business Owner,High Networth Individuals
+CUS0317,Customer 317,22,Male,Sydney,11075.68,Passive,Travel,Security,Single,Single
+CUS0318,Customer 318,78,Non-binary,Adelaide,24646.97,Active,Fashion,Innovation,Retired,High Networth Individuals
+CUS0319,Customer 319,33,Female,Hobart,12839.67,Active,Sports,Security,Business Owner,Frequent traveller
+CUS0320,Customer 320,65,Female,Perth,3755.12,Active,Tech,Customer Service,Student,Small business
+CUS0321,Customer 321,62,Male,Perth,49392.55,Active,Finance,Low Fees,Retired,High Networth Individuals
+CUS0322,Customer 322,76,Female,Melbourne,30431.87,Passive,Tech,Innovation,Business Owner,Tech savvy customer
+CUS0323,Customer 323,64,Non-binary,Brisbane,46185.31,Passive,Tech,Convenience,Student,High Networth Individuals
+CUS0324,Customer 324,71,Male,Adelaide,30280.7,Active,Tech,Security,Single,High Networth Individuals
+CUS0325,Customer 325,42,Male,Hobart,49904.83,Passive,Finance,Convenience,Business Owner,High Networth Individuals
+CUS0326,Customer 326,31,Non-binary,Perth,1570.52,Passive,Finance,Security,Business Owner,Frequent traveller
+CUS0327,Customer 327,67,Male,Hobart,44013.33,Passive,Travel,Low Fees,Family-Oriented,High Networth Individuals
+CUS0328,Customer 328,52,Male,Perth,31664.49,Passive,Sports,Convenience,Business Owner,Family
+CUS0329,Customer 329,21,Male,Brisbane,29380.03,Active,Sports,Convenience,Single,Single
+CUS0330,Customer 330,34,Male,Brisbane,47793.96,Passive,Tech,Customer Service,Student,High Networth Individuals
+CUS0331,Customer 331,20,Non-binary,Hobart,10916.65,Active,Tech,Innovation,Business Owner,Young clients
+CUS0332,Customer 332,22,Male,Melbourne,18162.6,Active,Travel,Security,Student,Young clients
+CUS0333,Customer 333,79,Male,Perth,48417.82,Passive,Tech,Convenience,Single,High Networth Individuals
+CUS0334,Customer 334,66,Non-binary,Brisbane,44628.81,Active,Travel,Innovation,Single,High Networth Individuals
+CUS0335,Customer 335,20,Male,Perth,22578.35,Passive,Tech,Security,Business Owner,Frequent traveller
+CUS0336,Customer 336,78,Non-binary,Adelaide,28050.31,Passive,Music,Low Fees,Student,High Networth Individuals
+CUS0337,Customer 337,32,Male,Sydney,39982.06,Active,Travel,Convenience,Single,Single
+CUS0338,Customer 338,44,Female,Hobart,34321.12,Passive,Music,Customer Service,Student,High Networth Individuals
+CUS0339,Customer 339,72,Male,Perth,5186.35,Active,Finance,Security,Student,High Networth Individuals
+CUS0340,Customer 340,53,Male,Sydney,30701.03,Passive,Finance,Low Fees,Family-Oriented,High Networth Individuals
+CUS0341,Customer 341,61,Female,Perth,10454.55,Active,Tech,Customer Service,Student,High Networth Individuals
+CUS0342,Customer 342,68,Non-binary,Brisbane,44017.27,Active,Travel,Convenience,Business Owner,Tech savvy customer
+CUS0343,Customer 343,50,Male,Adelaide,12746.67,Passive,Fashion,Convenience,Family-Oriented,Small business
+CUS0344,Customer 344,44,Male,Hobart,22433.95,Passive,Tech,Security,Single,High Networth Individuals
+CUS0345,Customer 345,65,Male,Adelaide,35463.7,Active,Tech,Innovation,Retired,High Networth Individuals
+CUS0346,Customer 346,71,Male,Sydney,17072.95,Passive,Finance,Customer Service,Family-Oriented,High Networth Individuals
+CUS0347,Customer 347,24,Non-binary,Hobart,38735.84,Passive,Music,Security,Single,Frequent traveller
+CUS0348,Customer 348,52,Male,Adelaide,1720.68,Passive,Travel,Innovation,Single,Frequent traveller
+CUS0349,Customer 349,49,Non-binary,Sydney,24325.82,Active,Travel,Security,Business Owner,High Networth Individuals
+CUS0350,Customer 350,64,Male,Melbourne,37408.18,Active,Travel,Innovation,Family-Oriented,High Networth Individuals
+CUS0351,Customer 351,73,Non-binary,Brisbane,18046.1,Passive,Travel,Security,Business Owner,Small business
+CUS0352,Customer 352,45,Female,Hobart,40650.98,Active,Music,Convenience,Family-Oriented,High Networth Individuals
+CUS0353,Customer 353,54,Male,Adelaide,8097.3,Passive,Fashion,Low Fees,Retired,Young clients
+CUS0354,Customer 354,26,Male,Hobart,3363.36,Active,Fashion,Customer Service,Business Owner,Frequent traveller
+CUS0355,Customer 355,18,Female,Adelaide,13629.48,Active,Fashion,Low Fees,Family-Oriented,Young clients
+CUS0356,Customer 356,78,Male,Sydney,29860.12,Passive,Fashion,Customer Service,Family-Oriented,High Networth Individuals
+CUS0357,Customer 357,79,Non-binary,Adelaide,36113.97,Active,Fashion,Low Fees,Student,High Networth Individuals
+CUS0358,Customer 358,32,Female,Perth,20510.99,Passive,Sports,Low Fees,Family-Oriented,High Networth Individuals
+CUS0359,Customer 359,55,Non-binary,Melbourne,17446.27,Passive,Sports,Convenience,Retired,High Networth Individuals
+CUS0360,Customer 360,38,Male,Melbourne,13703.33,Passive,Fashion,Low Fees,Student,Family
+CUS0361,Customer 361,76,Male,Adelaide,9146.92,Active,Music,Security,Retired,Young clients
+CUS0362,Customer 362,75,Female,Adelaide,21259.78,Passive,Tech,Customer Service,Business Owner,Young clients
+CUS0363,Customer 363,79,Female,Perth,36621.3,Active,Finance,Customer Service,Business Owner,Family
+CUS0364,Customer 364,80,Male,Sydney,32940.54,Passive,Finance,Innovation,Family-Oriented,High Networth Individuals
+CUS0365,Customer 365,70,Female,Hobart,49957.43,Passive,Travel,Security,Student,High Networth Individuals
+CUS0366,Customer 366,65,Male,Perth,4760.44,Active,Travel,Customer Service,Single,Family
+CUS0367,Customer 367,70,Male,Perth,43021.8,Passive,Music,Convenience,Single,High Networth Individuals
+CUS0368,Customer 368,52,Male,Sydney,10027.46,Active,Travel,Customer Service,Student,Small business
+CUS0369,Customer 369,27,Non-binary,Perth,3574.23,Active,Tech,Convenience,Family-Oriented,Small business
+CUS0370,Customer 370,48,Female,Perth,22082.19,Passive,Sports,Security,Retired,High Networth Individuals
+CUS0371,Customer 371,80,Male,Perth,8270.46,Active,Tech,Customer Service,Business Owner,Frequent traveller
+CUS0372,Customer 372,71,Female,Melbourne,41087.48,Active,Finance,Security,Family-Oriented,High Networth Individuals
+CUS0373,Customer 373,27,Female,Perth,44517.92,Passive,Tech,Security,Student,High Networth Individuals
+CUS0374,Customer 374,40,Female,Perth,17978.42,Active,Finance,Customer Service,Single,High Networth Individuals
+CUS0375,Customer 375,65,Non-binary,Melbourne,38491.28,Active,Fashion,Low Fees,Student,High Networth Individuals
+CUS0376,Customer 376,46,Male,Melbourne,44842.22,Passive,Finance,Innovation,Business Owner,High Networth Individuals
+CUS0377,Customer 377,61,Male,Brisbane,43334.3,Passive,Tech,Customer Service,Retired,High Networth Individuals
+CUS0378,Customer 378,32,Male,Sydney,1849.07,Active,Fashion,Low Fees,Family-Oriented,Frequent traveller
+CUS0379,Customer 379,30,Female,Adelaide,25679.54,Passive,Fashion,Customer Service,Family-Oriented,High Networth Individuals
+CUS0380,Customer 380,29,Female,Brisbane,45298.93,Passive,Tech,Customer Service,Business Owner,High Networth Individuals
+CUS0381,Customer 381,75,Non-binary,Perth,10162.7,Active,Music,Innovation,Retired,Frequent traveller
+CUS0382,Customer 382,21,Non-binary,Hobart,32241.22,Active,Tech,Customer Service,Business Owner,Small business
+CUS0383,Customer 383,56,Non-binary,Melbourne,8734.87,Active,Travel,Convenience,Retired,Young clients
+CUS0384,Customer 384,31,Female,Adelaide,44101.7,Active,Finance,Security,Family-Oriented,High Networth Individuals
+CUS0385,Customer 385,19,Non-binary,Perth,13563.09,Passive,Tech,Customer Service,Business Owner,Small business
+CUS0386,Customer 386,59,Non-binary,Adelaide,25520.61,Passive,Music,Convenience,Family-Oriented,High Networth Individuals
+CUS0387,Customer 387,47,Non-binary,Perth,1181.39,Passive,Travel,Security,Single,High Networth Individuals
+CUS0388,Customer 388,56,Female,Brisbane,16674.56,Active,Fashion,Low Fees,Family-Oriented,High Networth Individuals
+CUS0389,Customer 389,49,Female,Perth,32475.15,Active,Travel,Low Fees,Family-Oriented,High Networth Individuals
+CUS0390,Customer 390,67,Female,Sydney,20295.61,Passive,Fashion,Convenience,Retired,High Networth Individuals
+CUS0391,Customer 391,46,Male,Sydney,2513.39,Passive,Sports,Low Fees,Student,Young clients
+CUS0392,Customer 392,74,Male,Brisbane,41690.14,Passive,Finance,Convenience,Family-Oriented,High Networth Individuals
+CUS0393,Customer 393,74,Non-binary,Hobart,43499.89,Active,Tech,Low Fees,Retired,High Networth Individuals
+CUS0394,Customer 394,37,Male,Sydney,41364.09,Active,Sports,Low Fees,Student,High Networth Individuals
+CUS0395,Customer 395,51,Male,Brisbane,43916.55,Passive,Sports,Convenience,Business Owner,Family
+CUS0396,Customer 396,21,Male,Hobart,30331.16,Active,Sports,Customer Service,Single,Young clients
+CUS0397,Customer 397,37,Female,Hobart,34785.64,Passive,Sports,Innovation,Business Owner,Frequent traveller
+CUS0398,Customer 398,37,Non-binary,Sydney,10173.91,Passive,Sports,Customer Service,Single,Small business
+CUS0399,Customer 399,79,Male,Brisbane,2031.92,Passive,Sports,Customer Service,Retired,High Networth Individuals
+CUS0400,Customer 400,38,Female,Adelaide,3864.3,Passive,Sports,Customer Service,Family-Oriented,Young clients
+CUS0401,Customer 401,33,Non-binary,Hobart,43506.84,Active,Finance,Innovation,Business Owner,High Networth Individuals
+CUS0402,Customer 402,32,Female,Hobart,37450.65,Passive,Fashion,Low Fees,Retired,High Networth Individuals
+CUS0403,Customer 403,57,Male,Hobart,5900.25,Passive,Finance,Low Fees,Business Owner,Tech savvy customer
+CUS0404,Customer 404,26,Male,Brisbane,48576.83,Active,Travel,Security,Family-Oriented,High Networth Individuals
+CUS0405,Customer 405,71,Female,Melbourne,30896.82,Active,Fashion,Customer Service,Retired,High Networth Individuals
+CUS0406,Customer 406,61,Female,Adelaide,5114.79,Active,Fashion,Innovation,Family-Oriented,Young clients
+CUS0407,Customer 407,79,Female,Perth,45923.02,Active,Finance,Convenience,Family-Oriented,High Networth Individuals
+CUS0408,Customer 408,60,Non-binary,Melbourne,44726.56,Passive,Finance,Innovation,Business Owner,High Networth Individuals
+CUS0409,Customer 409,76,Non-binary,Melbourne,9454.97,Active,Tech,Customer Service,Business Owner,Small business
+CUS0410,Customer 410,67,Male,Brisbane,18969.25,Passive,Sports,Convenience,Student,High Networth Individuals
+CUS0411,Customer 411,27,Female,Melbourne,29976.69,Passive,Tech,Customer Service,Single,High Networth Individuals
+CUS0412,Customer 412,65,Non-binary,Brisbane,4492.22,Passive,Finance,Security,Retired,Small business
+CUS0413,Customer 413,40,Male,Melbourne,18063.01,Active,Sports,Convenience,Single,High Networth Individuals
+CUS0414,Customer 414,61,Female,Adelaide,46716.48,Passive,Finance,Innovation,Student,High Networth Individuals
+CUS0415,Customer 415,73,Female,Brisbane,19439.09,Passive,Travel,Security,Retired,High Networth Individuals
+CUS0416,Customer 416,80,Non-binary,Sydney,6151.57,Passive,Finance,Innovation,Single,Single
+CUS0417,Customer 417,75,Male,Adelaide,17617.56,Passive,Finance,Convenience,Student,High Networth Individuals
+CUS0418,Customer 418,22,Female,Adelaide,40525.53,Active,Fashion,Convenience,Business Owner,High Networth Individuals
+CUS0419,Customer 419,50,Non-binary,Adelaide,40507.9,Passive,Travel,Security,Student,High Networth Individuals
+CUS0420,Customer 420,20,Non-binary,Hobart,36850.42,Passive,Tech,Innovation,Student,Students
+CUS0421,Customer 421,63,Male,Sydney,35873.36,Active,Tech,Convenience,Business Owner,Small business
+CUS0422,Customer 422,21,Female,Sydney,34758.01,Active,Music,Low Fees,Family-Oriented,High Networth Individuals
+CUS0423,Customer 423,61,Non-binary,Adelaide,36578.05,Passive,Travel,Security,Student,High Networth Individuals
+CUS0424,Customer 424,71,Non-binary,Perth,38828.05,Active,Finance,Security,Business Owner,High Networth Individuals
+CUS0425,Customer 425,25,Non-binary,Hobart,34924.51,Passive,Tech,Security,Single,Young clients
+CUS0426,Customer 426,74,Female,Hobart,33607.42,Passive,Sports,Customer Service,Retired,High Networth Individuals
+CUS0427,Customer 427,23,Non-binary,Brisbane,34249.18,Passive,Tech,Innovation,Business Owner,High Networth Individuals
+CUS0428,Customer 428,64,Non-binary,Sydney,11108.62,Passive,Finance,Convenience,Retired,Tech savvy customer
+CUS0429,Customer 429,56,Male,Hobart,32299.43,Active,Tech,Convenience,Student,High Networth Individuals
+CUS0430,Customer 430,36,Male,Brisbane,48092.1,Active,Fashion,Customer Service,Family-Oriented,High Networth Individuals
+CUS0431,Customer 431,27,Non-binary,Hobart,41667.46,Passive,Travel,Innovation,Business Owner,High Networth Individuals
+CUS0432,Customer 432,56,Female,Perth,37831.08,Active,Tech,Security,Business Owner,Small business
+CUS0433,Customer 433,27,Female,Brisbane,15368.48,Passive,Sports,Customer Service,Family-Oriented,High Networth Individuals
+CUS0434,Customer 434,80,Female,Hobart,10252.5,Active,Sports,Innovation,Retired,High Networth Individuals
+CUS0435,Customer 435,72,Female,Perth,42343.36,Active,Music,Security,Retired,High Networth Individuals
+CUS0436,Customer 436,18,Female,Perth,29608.65,Active,Travel,Convenience,Student,Students
+CUS0437,Customer 437,63,Male,Hobart,22966.48,Active,Music,Customer Service,Family-Oriented,High Networth Individuals
+CUS0438,Customer 438,34,Male,Sydney,33480.12,Passive,Sports,Security,Single,Single
+CUS0439,Customer 439,23,Male,Brisbane,9534.84,Passive,Travel,Customer Service,Single,Single
+CUS0440,Customer 440,40,Non-binary,Adelaide,22068.05,Active,Music,Low Fees,Student,High Networth Individuals
+CUS0441,Customer 441,36,Non-binary,Perth,8998.34,Passive,Sports,Innovation,Business Owner,Frequent traveller
+CUS0442,Customer 442,62,Non-binary,Adelaide,2442.67,Passive,Sports,Low Fees,Single,Single
+CUS0443,Customer 443,25,Non-binary,Hobart,3215.43,Passive,Travel,Security,Student,Young clients
+CUS0444,Customer 444,71,Male,Adelaide,15038.54,Passive,Finance,Convenience,Student,High Networth Individuals
+CUS0445,Customer 445,54,Female,Perth,4140.15,Active,Fashion,Low Fees,Family-Oriented,Young clients
+CUS0446,Customer 446,22,Non-binary,Sydney,29048.47,Passive,Travel,Convenience,Student,Frequent traveller
+CUS0447,Customer 447,51,Non-binary,Adelaide,47841.04,Passive,Music,Convenience,Family-Oriented,High Networth Individuals
+CUS0448,Customer 448,28,Male,Hobart,10379.15,Passive,Fashion,Innovation,Business Owner,Small business
+CUS0449,Customer 449,49,Female,Hobart,40936.59,Passive,Finance,Customer Service,Family-Oriented,High Networth Individuals
+CUS0450,Customer 450,24,Female,Melbourne,23436.51,Passive,Tech,Customer Service,Single,Young clients
+CUS0451,Customer 451,39,Male,Brisbane,19916.69,Active,Fashion,Security,Business Owner,Family
+CUS0452,Customer 452,41,Male,Melbourne,24732.55,Passive,Music,Convenience,Single,High Networth Individuals
+CUS0453,Customer 453,56,Non-binary,Hobart,12074.02,Passive,Sports,Security,Student,High Networth Individuals
+CUS0454,Customer 454,39,Non-binary,Melbourne,41041.7,Passive,Finance,Innovation,Student,High Networth Individuals
+CUS0455,Customer 455,39,Male,Brisbane,45430.62,Active,Tech,Low Fees,Single,Single
+CUS0456,Customer 456,79,Non-binary,Adelaide,41935.68,Active,Music,Security,Single,High Networth Individuals
+CUS0457,Customer 457,18,Male,Sydney,49802.87,Passive,Music,Low Fees,Family-Oriented,Young clients
+CUS0458,Customer 458,31,Male,Perth,46587.13,Active,Finance,Customer Service,Single,High Networth Individuals
+CUS0459,Customer 459,26,Non-binary,Brisbane,41556.1,Passive,Fashion,Low Fees,Business Owner,Small business
+CUS0460,Customer 460,36,Non-binary,Sydney,12153.52,Passive,Fashion,Security,Retired,Frequent traveller
+CUS0461,Customer 461,29,Female,Melbourne,16655.12,Passive,Travel,Innovation,Single,Single
+CUS0462,Customer 462,48,Non-binary,Sydney,16570.96,Active,Sports,Low Fees,Student,High Networth Individuals
+CUS0463,Customer 463,74,Female,Melbourne,36860.2,Passive,Fashion,Innovation,Business Owner,Family
+CUS0464,Customer 464,58,Non-binary,Hobart,12841.32,Passive,Tech,Innovation,Student,Young clients
+CUS0465,Customer 465,34,Female,Melbourne,21338.66,Passive,Travel,Security,Student,High Networth Individuals
+CUS0466,Customer 466,53,Male,Perth,9245.63,Active,Fashion,Innovation,Family-Oriented,Family
+CUS0467,Customer 467,43,Male,Perth,34857.74,Active,Sports,Innovation,Single,High Networth Individuals
+CUS0468,Customer 468,44,Non-binary,Perth,21225.02,Active,Music,Low Fees,Student,High Networth Individuals
+CUS0469,Customer 469,73,Female,Sydney,13887.84,Active,Sports,Convenience,Business Owner,Tech savvy customer
+CUS0470,Customer 470,75,Male,Brisbane,27959.27,Passive,Travel,Convenience,Family-Oriented,High Networth Individuals
+CUS0471,Customer 471,23,Non-binary,Adelaide,4950.92,Passive,Travel,Innovation,Student,Young clients
+CUS0472,Customer 472,35,Non-binary,Brisbane,6302.51,Active,Finance,Security,Student,Small business
+CUS0473,Customer 473,78,Male,Sydney,11972.67,Active,Fashion,Innovation,Single,Family
+CUS0474,Customer 474,59,Male,Adelaide,28381.56,Active,Music,Customer Service,Business Owner,High Networth Individuals
+CUS0475,Customer 475,29,Male,Melbourne,3083.83,Passive,Music,Low Fees,Business Owner,Small business
+CUS0476,Customer 476,66,Male,Adelaide,3559.06,Active,Fashion,Convenience,Family-Oriented,Frequent traveller
+CUS0477,Customer 477,63,Male,Perth,44042.09,Active,Fashion,Customer Service,Student,High Networth Individuals
+CUS0478,Customer 478,48,Non-binary,Adelaide,43568.22,Active,Finance,Convenience,Business Owner,Young clients
+CUS0479,Customer 479,24,Male,Perth,32132.58,Passive,Finance,Low Fees,Family-Oriented,Single
+CUS0480,Customer 480,33,Non-binary,Adelaide,31332.04,Passive,Music,Low Fees,Retired,High Networth Individuals
+CUS0481,Customer 481,55,Non-binary,Brisbane,17249.55,Passive,Tech,Convenience,Single,High Networth Individuals
+CUS0482,Customer 482,63,Female,Hobart,29275.85,Passive,Finance,Customer Service,Business Owner,Frequent traveller
+CUS0483,Customer 483,65,Female,Perth,39097.5,Active,Travel,Convenience,Family-Oriented,High Networth Individuals
+CUS0484,Customer 484,20,Female,Sydney,6011.39,Passive,Music,Customer Service,Business Owner,Young clients
+CUS0485,Customer 485,23,Male,Brisbane,27443.03,Active,Finance,Customer Service,Family-Oriented,High Networth Individuals
+CUS0486,Customer 486,36,Non-binary,Sydney,9015.12,Passive,Travel,Innovation,Single,Single
+CUS0487,Customer 487,66,Male,Sydney,37319.66,Passive,Travel,Security,Family-Oriented,High Networth Individuals
+CUS0488,Customer 488,59,Non-binary,Brisbane,25315.96,Passive,Finance,Low Fees,Single,High Networth Individuals
+CUS0489,Customer 489,65,Female,Brisbane,16675.95,Passive,Fashion,Convenience,Single,High Networth Individuals
+CUS0490,Customer 490,19,Male,Adelaide,37411.28,Active,Tech,Security,Single,Tech savvy customer
+CUS0491,Customer 491,27,Female,Hobart,33402.73,Active,Music,Security,Retired,High Networth Individuals
+CUS0492,Customer 492,45,Male,Sydney,41031.08,Active,Travel,Innovation,Family-Oriented,High Networth Individuals
+CUS0493,Customer 493,27,Non-binary,Sydney,15287.47,Passive,Fashion,Customer Service,Business Owner,Small business
+CUS0494,Customer 494,66,Female,Brisbane,34514.65,Active,Travel,Convenience,Retired,High Networth Individuals
+CUS0495,Customer 495,61,Female,Brisbane,11175.83,Active,Fashion,Convenience,Student,Small business
+CUS0496,Customer 496,40,Non-binary,Brisbane,45054.43,Active,Sports,Security,Business Owner,Single
+CUS0497,Customer 497,57,Male,Melbourne,12487.81,Active,Finance,Customer Service,Single,Young clients
+CUS0498,Customer 498,19,Male,Perth,7053.73,Passive,Tech,Security,Single,Students
+CUS0499,Customer 499,70,Non-binary,Adelaide,11613.5,Passive,Tech,Innovation,Retired,Young clients
+CUS0500,Customer 500,72,Male,Perth,43477.53,Passive,Travel,Customer Service,Retired,High Networth Individuals
+CUS0501,Customer 501,65,Non-binary,Hobart,10745.29,Passive,Music,Convenience,Business Owner,High Networth Individuals
+CUS0502,Customer 502,27,Non-binary,Melbourne,38567.52,Passive,Finance,Convenience,Single,Single
+CUS0503,Customer 503,61,Male,Melbourne,21631.7,Passive,Finance,Innovation,Family-Oriented,High Networth Individuals
+CUS0504,Customer 504,41,Female,Perth,43328.93,Passive,Finance,Convenience,Business Owner,High Networth Individuals
+CUS0505,Customer 505,59,Non-binary,Perth,44569.08,Active,Finance,Convenience,Single,High Networth Individuals
+CUS0506,Customer 506,56,Non-binary,Perth,3241.39,Passive,Finance,Customer Service,Retired,Single
+CUS0507,Customer 507,64,Female,Hobart,8726.29,Passive,Music,Security,Family-Oriented,Small business
+CUS0508,Customer 508,53,Female,Brisbane,26704.95,Passive,Finance,Customer Service,Retired,High Networth Individuals
+CUS0509,Customer 509,21,Non-binary,Sydney,42490.33,Passive,Fashion,Innovation,Family-Oriented,Young clients
+CUS0510,Customer 510,19,Non-binary,Melbourne,11483.75,Passive,Finance,Innovation,Student,Students
+CUS0511,Customer 511,29,Female,Hobart,37110.98,Active,Tech,Convenience,Family-Oriented,High Networth Individuals
+CUS0512,Customer 512,69,Male,Perth,48061.91,Passive,Fashion,Low Fees,Single,High Networth Individuals
+CUS0513,Customer 513,36,Male,Sydney,37656.98,Passive,Sports,Innovation,Business Owner,High Networth Individuals
+CUS0514,Customer 514,59,Non-binary,Sydney,33111.18,Passive,Finance,Innovation,Retired,High Networth Individuals
+CUS0515,Customer 515,28,Female,Perth,6158.21,Active,Sports,Innovation,Student,Family
+CUS0516,Customer 516,80,Non-binary,Adelaide,7987.89,Active,Tech,Customer Service,Business Owner,Small business
+CUS0517,Customer 517,22,Female,Hobart,40597.31,Passive,Sports,Innovation,Student,Frequent traveller
+CUS0518,Customer 518,31,Female,Brisbane,22724.47,Active,Fashion,Convenience,Family-Oriented,High Networth Individuals
+CUS0519,Customer 519,63,Male,Sydney,7428.22,Passive,Music,Convenience,Single,Small business
+CUS0520,Customer 520,29,Female,Perth,34622.43,Active,Fashion,Customer Service,Student,High Networth Individuals
+CUS0521,Customer 521,53,Female,Sydney,37314.29,Passive,Fashion,Low Fees,Business Owner,Young clients
+CUS0522,Customer 522,66,Male,Sydney,30007.01,Passive,Music,Convenience,Single,High Networth Individuals
+CUS0523,Customer 523,78,Non-binary,Adelaide,45289.89,Active,Travel,Security,Business Owner,High Networth Individuals
+CUS0524,Customer 524,68,Male,Perth,10880.32,Active,Fashion,Innovation,Single,High Networth Individuals
+CUS0525,Customer 525,74,Non-binary,Adelaide,45530.32,Active,Music,Customer Service,Business Owner,Small business
+CUS0526,Customer 526,44,Male,Brisbane,28336.77,Passive,Fashion,Security,Student,High Networth Individuals
+CUS0527,Customer 527,20,Female,Perth,17962.69,Active,Finance,Customer Service,Business Owner,High Networth Individuals
+CUS0528,Customer 528,48,Non-binary,Perth,43821.17,Passive,Music,Convenience,Business Owner,High Networth Individuals
+CUS0529,Customer 529,57,Female,Sydney,40376.73,Active,Finance,Security,Student,High Networth Individuals
+CUS0530,Customer 530,39,Female,Melbourne,9137.66,Active,Fashion,Customer Service,Student,Frequent traveller
+CUS0531,Customer 531,21,Non-binary,Melbourne,30579.04,Active,Fashion,Convenience,Family-Oriented,Young clients
+CUS0532,Customer 532,20,Female,Perth,3724.07,Active,Fashion,Security,Single,Students
+CUS0533,Customer 533,31,Female,Brisbane,26769.39,Active,Sports,Security,Family-Oriented,High Networth Individuals
+CUS0534,Customer 534,58,Female,Adelaide,32061.91,Active,Sports,Customer Service,Student,High Networth Individuals
+CUS0535,Customer 535,65,Male,Adelaide,19542.53,Passive,Tech,Innovation,Student,High Networth Individuals
+CUS0536,Customer 536,40,Non-binary,Brisbane,11739.69,Passive,Finance,Convenience,Family-Oriented,High Networth Individuals
+CUS0537,Customer 537,77,Male,Sydney,27015.99,Passive,Music,Convenience,Single,High Networth Individuals
+CUS0538,Customer 538,80,Male,Adelaide,46537.11,Active,Tech,Customer Service,Student,High Networth Individuals
+CUS0539,Customer 539,23,Non-binary,Sydney,19358.32,Passive,Fashion,Innovation,Business Owner,Small business
+CUS0540,Customer 540,80,Female,Adelaide,13123.27,Active,Travel,Convenience,Single,Frequent traveller
+CUS0541,Customer 541,18,Female,Sydney,11117.49,Active,Tech,Innovation,Family-Oriented,Young clients
+CUS0542,Customer 542,54,Non-binary,Sydney,27566.66,Passive,Tech,Innovation,Family-Oriented,High Networth Individuals
+CUS0543,Customer 543,64,Male,Melbourne,17333.08,Passive,Fashion,Low Fees,Retired,High Networth Individuals
+CUS0544,Customer 544,79,Female,Perth,42731.64,Passive,Travel,Innovation,Family-Oriented,High Networth Individuals
+CUS0545,Customer 545,24,Female,Hobart,45927.21,Passive,Sports,Low Fees,Business Owner,Small business
+CUS0546,Customer 546,73,Female,Hobart,32992.84,Active,Music,Customer Service,Student,High Networth Individuals
+CUS0547,Customer 547,69,Male,Sydney,32917.04,Active,Fashion,Innovation,Single,High Networth Individuals
+CUS0548,Customer 548,20,Non-binary,Hobart,12672.84,Active,Music,Security,Family-Oriented,Young clients
+CUS0549,Customer 549,60,Non-binary,Perth,43181.08,Active,Tech,Low Fees,Single,High Networth Individuals
+CUS0550,Customer 550,25,Female,Sydney,32243.25,Passive,Music,Convenience,Student,Small business
+CUS0551,Customer 551,80,Female,Brisbane,2963.86,Active,Fashion,Convenience,Student,Family
+CUS0552,Customer 552,42,Male,Perth,33357.79,Passive,Tech,Convenience,Business Owner,High Networth Individuals
+CUS0553,Customer 553,72,Male,Sydney,7888.35,Active,Sports,Security,Family-Oriented,High Networth Individuals
+CUS0554,Customer 554,18,Non-binary,Perth,29142.27,Active,Travel,Security,Student,Students
+CUS0555,Customer 555,49,Non-binary,Brisbane,11373.84,Passive,Sports,Customer Service,Student,Young clients
+CUS0556,Customer 556,76,Female,Sydney,17667.28,Active,Music,Innovation,Business Owner,Family
+CUS0557,Customer 557,47,Non-binary,Adelaide,47549.78,Passive,Travel,Innovation,Business Owner,Small business
+CUS0558,Customer 558,50,Male,Sydney,1407.27,Passive,Travel,Convenience,Family-Oriented,Small business
+CUS0559,Customer 559,47,Female,Perth,3094.21,Active,Travel,Security,Family-Oriented,Frequent traveller
+CUS0560,Customer 560,51,Non-binary,Hobart,49332.29,Passive,Travel,Innovation,Retired,High Networth Individuals
+CUS0561,Customer 561,56,Non-binary,Brisbane,48951.89,Active,Travel,Innovation,Business Owner,Single
+CUS0562,Customer 562,49,Non-binary,Perth,10950.73,Passive,Fashion,Innovation,Retired,Young clients
+CUS0563,Customer 563,54,Male,Adelaide,7349.88,Active,Travel,Security,Family-Oriented,Small business
+CUS0564,Customer 564,55,Non-binary,Perth,45498.35,Passive,Fashion,Customer Service,Family-Oriented,High Networth Individuals
+CUS0565,Customer 565,64,Non-binary,Adelaide,36934.69,Active,Fashion,Customer Service,Single,High Networth Individuals
+CUS0566,Customer 566,18,Non-binary,Melbourne,43495.84,Active,Travel,Customer Service,Student,Students
+CUS0567,Customer 567,69,Male,Adelaide,2032.7,Active,Finance,Low Fees,Business Owner,Small business
+CUS0568,Customer 568,66,Non-binary,Brisbane,24044.62,Active,Tech,Convenience,Family-Oriented,High Networth Individuals
+CUS0569,Customer 569,20,Male,Hobart,47636.15,Passive,Finance,Convenience,Family-Oriented,Frequent traveller
+CUS0570,Customer 570,65,Male,Melbourne,27477.8,Active,Fashion,Convenience,Retired,High Networth Individuals
+CUS0571,Customer 571,72,Male,Hobart,2365.63,Passive,Sports,Customer Service,Retired,Small business
+CUS0572,Customer 572,51,Female,Perth,27799.32,Active,Fashion,Customer Service,Family-Oriented,High Networth Individuals
+CUS0573,Customer 573,56,Non-binary,Perth,39306.46,Active,Finance,Security,Retired,High Networth Individuals
+CUS0574,Customer 574,63,Female,Sydney,9040.6,Passive,Music,Innovation,Family-Oriented,High Networth Individuals
+CUS0575,Customer 575,73,Female,Melbourne,36849,Active,Travel,Security,Retired,High Networth Individuals
+CUS0576,Customer 576,80,Non-binary,Melbourne,22380.25,Active,Fashion,Low Fees,Family-Oriented,High Networth Individuals
+CUS0577,Customer 577,65,Non-binary,Brisbane,15609.63,Active,Finance,Innovation,Student,High Networth Individuals
+CUS0578,Customer 578,43,Female,Sydney,14684.44,Passive,Finance,Low Fees,Business Owner,Family
+CUS0579,Customer 579,27,Male,Sydney,17938.82,Passive,Travel,Security,Student,High Networth Individuals
+CUS0580,Customer 580,31,Non-binary,Melbourne,22997.73,Passive,Sports,Security,Single,Single
+CUS0581,Customer 581,48,Non-binary,Melbourne,34033.07,Active,Finance,Customer Service,Retired,High Networth Individuals
+CUS0582,Customer 582,54,Female,Adelaide,34643.49,Active,Tech,Low Fees,Retired,High Networth Individuals
+CUS0583,Customer 583,35,Female,Brisbane,6097.05,Passive,Finance,Innovation,Single,Single
+CUS0584,Customer 584,76,Male,Brisbane,24337.77,Active,Fashion,Innovation,Family-Oriented,High Networth Individuals
+CUS0585,Customer 585,19,Female,Hobart,27242.59,Active,Travel,Security,Student,Students
+CUS0586,Customer 586,54,Male,Sydney,3071.61,Active,Finance,Innovation,Student,Tech savvy customer
+CUS0587,Customer 587,32,Non-binary,Hobart,9543.05,Passive,Music,Customer Service,Single,Tech savvy customer
+CUS0588,Customer 588,73,Non-binary,Adelaide,12977.47,Passive,Tech,Customer Service,Family-Oriented,High Networth Individuals
+CUS0589,Customer 589,52,Non-binary,Melbourne,23781.97,Passive,Tech,Customer Service,Retired,High Networth Individuals
+CUS0590,Customer 590,30,Female,Sydney,39201.65,Passive,Fashion,Innovation,Student,High Networth Individuals
+CUS0591,Customer 591,58,Male,Adelaide,12118.21,Active,Finance,Low Fees,Family-Oriented,Frequent traveller
+CUS0592,Customer 592,72,Non-binary,Brisbane,37797.11,Passive,Fashion,Low Fees,Family-Oriented,High Networth Individuals
+CUS0593,Customer 593,27,Female,Adelaide,29011.47,Active,Sports,Innovation,Retired,High Networth Individuals
+CUS0594,Customer 594,23,Non-binary,Perth,33855.19,Passive,Travel,Innovation,Single,Single
+CUS0595,Customer 595,76,Female,Perth,3263.27,Active,Music,Innovation,Single,Small business
+CUS0596,Customer 596,56,Non-binary,Brisbane,34761.5,Active,Music,Low Fees,Business Owner,Small business
+CUS0597,Customer 597,78,Female,Adelaide,6172.12,Active,Travel,Innovation,Student,Frequent traveller
+CUS0598,Customer 598,63,Non-binary,Perth,13478.29,Active,Tech,Convenience,Business Owner,Small business
+CUS0599,Customer 599,47,Male,Adelaide,9155.6,Passive,Sports,Security,Family-Oriented,High Networth Individuals
+CUS0600,Customer 600,60,Female,Adelaide,35970.09,Active,Fashion,Customer Service,Family-Oriented,High Networth Individuals
+CUS0601,Customer 601,18,Male,Adelaide,48124.75,Active,Fashion,Innovation,Business Owner,High Networth Individuals
+CUS0602,Customer 602,71,Female,Perth,16931.33,Passive,Sports,Convenience,Family-Oriented,High Networth Individuals
+CUS0603,Customer 603,36,Non-binary,Perth,17698.43,Passive,Music,Security,Business Owner,Single
+CUS0604,Customer 604,22,Male,Sydney,9348.09,Active,Tech,Security,Business Owner,Small business
+CUS0605,Customer 605,23,Non-binary,Sydney,37407.5,Passive,Music,Low Fees,Family-Oriented,Young clients
+CUS0606,Customer 606,36,Female,Sydney,5687.4,Active,Tech,Low Fees,Student,Tech savvy customer
+CUS0607,Customer 607,69,Non-binary,Brisbane,32324.13,Active,Tech,Low Fees,Family-Oriented,High Networth Individuals
+CUS0608,Customer 608,30,Male,Hobart,37285.45,Passive,Sports,Security,Retired,High Networth Individuals
+CUS0609,Customer 609,63,Male,Perth,17129.09,Passive,Music,Low Fees,Student,High Networth Individuals
+CUS0610,Customer 610,56,Male,Sydney,8623.37,Active,Travel,Innovation,Retired,Young clients
+CUS0611,Customer 611,71,Female,Sydney,13591.44,Passive,Travel,Security,Family-Oriented,High Networth Individuals
+CUS0612,Customer 612,50,Male,Adelaide,41046.46,Passive,Travel,Low Fees,Business Owner,Frequent traveller
+CUS0613,Customer 613,61,Female,Hobart,7626.81,Active,Fashion,Customer Service,Retired,Young clients
+CUS0614,Customer 614,42,Male,Perth,21260.88,Passive,Tech,Low Fees,Student,High Networth Individuals
+CUS0615,Customer 615,52,Non-binary,Sydney,48709.78,Active,Music,Security,Retired,High Networth Individuals
+CUS0616,Customer 616,61,Male,Melbourne,43433.96,Passive,Travel,Security,Retired,High Networth Individuals
+CUS0617,Customer 617,76,Female,Adelaide,30569.79,Active,Travel,Convenience,Business Owner,Family
+CUS0618,Customer 618,38,Female,Brisbane,24484.38,Passive,Tech,Innovation,Family-Oriented,High Networth Individuals
+CUS0619,Customer 619,74,Female,Hobart,48754.88,Active,Sports,Innovation,Business Owner,Family
+CUS0620,Customer 620,21,Male,Brisbane,25176.65,Passive,Finance,Security,Single,Small business
+CUS0621,Customer 621,34,Female,Perth,35742.56,Active,Tech,Security,Student,High Networth Individuals
+CUS0622,Customer 622,75,Male,Sydney,33842.64,Active,Sports,Convenience,Student,High Networth Individuals
+CUS0623,Customer 623,77,Non-binary,Hobart,3304.98,Passive,Fashion,Security,Single,Single
+CUS0624,Customer 624,24,Non-binary,Brisbane,37291.71,Passive,Travel,Customer Service,Student,Small business
+CUS0625,Customer 625,65,Female,Adelaide,22948.38,Active,Fashion,Innovation,Business Owner,Family
+CUS0626,Customer 626,62,Male,Brisbane,19031.12,Active,Music,Convenience,Family-Oriented,High Networth Individuals
+CUS0627,Customer 627,39,Male,Adelaide,37695.76,Active,Fashion,Security,Business Owner,High Networth Individuals
+CUS0628,Customer 628,66,Female,Brisbane,38988.88,Active,Sports,Convenience,Student,High Networth Individuals
+CUS0629,Customer 629,63,Non-binary,Melbourne,8608.78,Passive,Sports,Convenience,Family-Oriented,High Networth Individuals
+CUS0630,Customer 630,50,Female,Adelaide,25130.15,Active,Music,Security,Single,High Networth Individuals
+CUS0631,Customer 631,42,Male,Melbourne,43505.4,Active,Music,Convenience,Single,High Networth Individuals
+CUS0632,Customer 632,61,Non-binary,Perth,16757.09,Passive,Music,Low Fees,Student,High Networth Individuals
+CUS0633,Customer 633,47,Female,Adelaide,35545.9,Passive,Travel,Customer Service,Single,High Networth Individuals
+CUS0634,Customer 634,24,Non-binary,Hobart,42745.81,Active,Music,Innovation,Single,Small business
+CUS0635,Customer 635,68,Non-binary,Brisbane,8524.26,Active,Fashion,Security,Business Owner,Tech savvy customer
+CUS0636,Customer 636,62,Female,Melbourne,49677.44,Active,Travel,Customer Service,Business Owner,Family
+CUS0637,Customer 637,54,Female,Sydney,24944.15,Active,Travel,Innovation,Family-Oriented,High Networth Individuals
+CUS0638,Customer 638,67,Female,Adelaide,1942.71,Active,Finance,Innovation,Retired,Family
+CUS0639,Customer 639,41,Male,Brisbane,41447.31,Active,Fashion,Convenience,Student,High Networth Individuals
+CUS0640,Customer 640,70,Female,Brisbane,12324.93,Active,Fashion,Low Fees,Student,High Networth Individuals
+CUS0641,Customer 641,46,Non-binary,Hobart,37002.87,Active,Music,Low Fees,Student,High Networth Individuals
+CUS0642,Customer 642,76,Non-binary,Hobart,33625.2,Passive,Travel,Low Fees,Single,High Networth Individuals
+CUS0643,Customer 643,19,Male,Melbourne,34541.35,Active,Finance,Innovation,Student,Students
+CUS0644,Customer 644,28,Female,Sydney,31468.26,Passive,Travel,Low Fees,Retired,High Networth Individuals
+CUS0645,Customer 645,65,Non-binary,Brisbane,43047.92,Active,Music,Customer Service,Student,High Networth Individuals
+CUS0646,Customer 646,74,Female,Sydney,47177.8,Active,Tech,Convenience,Student,High Networth Individuals
+CUS0647,Customer 647,68,Male,Adelaide,44322.24,Active,Tech,Convenience,Family-Oriented,High Networth Individuals
+CUS0648,Customer 648,20,Male,Brisbane,17471.74,Passive,Sports,Low Fees,Single,Tech savvy customer
+CUS0649,Customer 649,55,Male,Sydney,28420.14,Active,Travel,Customer Service,Family-Oriented,High Networth Individuals
+CUS0650,Customer 650,57,Female,Brisbane,26566.73,Active,Sports,Innovation,Student,High Networth Individuals
+CUS0651,Customer 651,80,Non-binary,Brisbane,34854.03,Active,Travel,Innovation,Business Owner,High Networth Individuals
+CUS0652,Customer 652,76,Female,Adelaide,49193.97,Active,Travel,Security,Business Owner,Small business
+CUS0653,Customer 653,60,Non-binary,Melbourne,29734.88,Passive,Tech,Security,Student,High Networth Individuals
+CUS0654,Customer 654,27,Female,Perth,29538.79,Passive,Tech,Customer Service,Family-Oriented,High Networth Individuals
+CUS0655,Customer 655,20,Male,Melbourne,40665.67,Active,Fashion,Convenience,Single,Single
+CUS0656,Customer 656,33,Non-binary,Melbourne,23714.13,Active,Sports,Customer Service,Business Owner,Small business
+CUS0657,Customer 657,40,Male,Adelaide,6487.2,Active,Finance,Customer Service,Retired,Tech savvy customer
+CUS0658,Customer 658,57,Male,Adelaide,29226.39,Active,Tech,Security,Student,High Networth Individuals
+CUS0659,Customer 659,20,Male,Brisbane,48047.28,Passive,Sports,Innovation,Business Owner,Family
+CUS0660,Customer 660,33,Female,Hobart,47460.04,Active,Travel,Low Fees,Business Owner,High Networth Individuals
+CUS0661,Customer 661,38,Female,Brisbane,46775.73,Passive,Fashion,Low Fees,Single,Single
+CUS0662,Customer 662,69,Non-binary,Perth,32486.31,Passive,Music,Innovation,Single,High Networth Individuals
+CUS0663,Customer 663,34,Female,Adelaide,19983.88,Passive,Sports,Innovation,Single,Single
+CUS0664,Customer 664,20,Male,Brisbane,38604.64,Active,Music,Convenience,Single,Students
+CUS0665,Customer 665,55,Female,Sydney,2228.36,Passive,Music,Innovation,Business Owner,Tech savvy customer
+CUS0666,Customer 666,75,Male,Perth,2299.8,Active,Tech,Innovation,Student,High Networth Individuals
+CUS0667,Customer 667,47,Female,Hobart,10106.81,Passive,Travel,Security,Single,Family
+CUS0668,Customer 668,34,Non-binary,Perth,47563.8,Passive,Tech,Low Fees,Business Owner,Tech savvy customer
+CUS0669,Customer 669,34,Non-binary,Adelaide,10853.68,Active,Sports,Security,Single,High Networth Individuals
+CUS0670,Customer 670,62,Male,Hobart,22877.45,Active,Music,Low Fees,Single,High Networth Individuals
+CUS0671,Customer 671,78,Non-binary,Sydney,30887.14,Passive,Travel,Low Fees,Student,High Networth Individuals
+CUS0672,Customer 672,30,Female,Hobart,41191.45,Passive,Finance,Security,Business Owner,High Networth Individuals
+CUS0673,Customer 673,29,Male,Sydney,6942.34,Active,Finance,Innovation,Family-Oriented,Tech savvy customer
+CUS0674,Customer 674,36,Male,Hobart,39510.18,Passive,Sports,Security,Family-Oriented,High Networth Individuals
+CUS0675,Customer 675,39,Female,Hobart,4357.15,Active,Tech,Innovation,Single,Small business
+CUS0676,Customer 676,78,Non-binary,Hobart,39465.31,Passive,Fashion,Customer Service,Retired,High Networth Individuals
+CUS0677,Customer 677,25,Female,Sydney,47191.14,Active,Sports,Convenience,Single,Young clients
+CUS0678,Customer 678,47,Non-binary,Melbourne,29873.45,Passive,Sports,Innovation,Retired,High Networth Individuals
+CUS0679,Customer 679,70,Male,Sydney,13727.08,Passive,Fashion,Customer Service,Single,Young clients
+CUS0680,Customer 680,55,Female,Brisbane,23716.83,Passive,Music,Security,Student,High Networth Individuals
+CUS0681,Customer 681,49,Non-binary,Adelaide,39996.97,Passive,Travel,Customer Service,Single,High Networth Individuals
+CUS0682,Customer 682,66,Non-binary,Sydney,6947.51,Active,Fashion,Innovation,Retired,Frequent traveller
+CUS0683,Customer 683,22,Non-binary,Melbourne,46098.13,Active,Fashion,Low Fees,Student,High Networth Individuals
+CUS0684,Customer 684,73,Non-binary,Hobart,40334.73,Passive,Travel,Security,Business Owner,Single
+CUS0685,Customer 685,45,Female,Perth,22830.43,Active,Finance,Low Fees,Single,High Networth Individuals
+CUS0686,Customer 686,28,Non-binary,Perth,43170.57,Active,Finance,Low Fees,Business Owner,High Networth Individuals
+CUS0687,Customer 687,35,Non-binary,Perth,38933.38,Active,Fashion,Convenience,Single,Single
+CUS0688,Customer 688,60,Male,Hobart,7245.85,Active,Travel,Innovation,Retired,High Networth Individuals
+CUS0689,Customer 689,42,Male,Brisbane,15849.19,Passive,Tech,Customer Service,Student,High Networth Individuals
+CUS0690,Customer 690,50,Male,Perth,1233.87,Active,Tech,Customer Service,Student,Family
+CUS0691,Customer 691,36,Male,Melbourne,28899.3,Active,Tech,Security,Single,Single
+CUS0692,Customer 692,42,Female,Hobart,5765.4,Active,Travel,Security,Business Owner,Family
+CUS0693,Customer 693,31,Female,Brisbane,35421.6,Active,Sports,Innovation,Single,Single
+CUS0694,Customer 694,42,Non-binary,Brisbane,26675.23,Passive,Finance,Convenience,Family-Oriented,High Networth Individuals
+CUS0695,Customer 695,56,Female,Sydney,4230.99,Passive,Music,Security,Family-Oriented,Tech savvy customer
+CUS0696,Customer 696,66,Non-binary,Melbourne,42659.27,Passive,Travel,Security,Single,High Networth Individuals
+CUS0697,Customer 697,25,Male,Adelaide,7343.1,Passive,Tech,Innovation,Business Owner,Tech savvy customer
+CUS0698,Customer 698,45,Female,Brisbane,44434.17,Passive,Tech,Innovation,Business Owner,High Networth Individuals
+CUS0699,Customer 699,34,Male,Perth,8475.07,Passive,Music,Innovation,Family-Oriented,Family
+CUS0700,Customer 700,74,Male,Brisbane,43394.87,Passive,Finance,Convenience,Student,High Networth Individuals
+CUS0701,Customer 701,27,Non-binary,Sydney,28000.44,Active,Music,Security,Single,Single
+CUS0702,Customer 702,23,Non-binary,Sydney,8868.29,Active,Tech,Customer Service,Single,Young clients
+CUS0703,Customer 703,52,Male,Perth,31493.18,Active,Tech,Innovation,Family-Oriented,High Networth Individuals
+CUS0704,Customer 704,34,Non-binary,Hobart,39572.36,Passive,Music,Convenience,Student,High Networth Individuals
+CUS0705,Customer 705,77,Non-binary,Sydney,37188.94,Active,Sports,Convenience,Retired,High Networth Individuals
+CUS0706,Customer 706,50,Male,Adelaide,18197.01,Active,Sports,Convenience,Student,High Networth Individuals
+CUS0707,Customer 707,30,Female,Perth,13253.89,Passive,Travel,Security,Single,Single
+CUS0708,Customer 708,30,Male,Hobart,23478.09,Passive,Sports,Security,Business Owner,Small business
+CUS0709,Customer 709,41,Male,Sydney,18240.62,Passive,Sports,Security,Business Owner,Family
+CUS0710,Customer 710,30,Non-binary,Hobart,27390.94,Passive,Music,Security,Student,High Networth Individuals
+CUS0711,Customer 711,43,Non-binary,Sydney,16809.11,Passive,Fashion,Convenience,Retired,High Networth Individuals
+CUS0712,Customer 712,29,Female,Sydney,19948.79,Passive,Tech,Security,Family-Oriented,High Networth Individuals
+CUS0713,Customer 713,31,Female,Adelaide,40975.63,Active,Music,Low Fees,Student,High Networth Individuals
+CUS0714,Customer 714,38,Non-binary,Brisbane,2950.6,Passive,Fashion,Innovation,Retired,Young clients
+CUS0715,Customer 715,61,Female,Adelaide,31847.25,Passive,Finance,Low Fees,Family-Oriented,High Networth Individuals
+CUS0716,Customer 716,24,Female,Hobart,42754.27,Active,Sports,Low Fees,Single,Family
+CUS0717,Customer 717,62,Male,Perth,8657.05,Active,Sports,Low Fees,Retired,Tech savvy customer
+CUS0718,Customer 718,54,Female,Adelaide,22697.4,Active,Finance,Convenience,Business Owner,Young clients
+CUS0719,Customer 719,61,Female,Melbourne,12951.19,Active,Finance,Low Fees,Business Owner,Young clients
+CUS0720,Customer 720,60,Non-binary,Melbourne,40354.97,Active,Sports,Customer Service,Single,High Networth Individuals
+CUS0721,Customer 721,65,Female,Brisbane,14451.73,Passive,Finance,Convenience,Business Owner,Family
+CUS0722,Customer 722,45,Non-binary,Perth,39093.47,Active,Fashion,Convenience,Student,High Networth Individuals
+CUS0723,Customer 723,62,Male,Hobart,22177.27,Passive,Sports,Innovation,Family-Oriented,High Networth Individuals
+CUS0724,Customer 724,63,Male,Sydney,2794.82,Passive,Travel,Low Fees,Business Owner,Small business
+CUS0725,Customer 725,78,Non-binary,Sydney,5256.08,Passive,Tech,Innovation,Business Owner,Single
+CUS0726,Customer 726,62,Female,Brisbane,35098.19,Passive,Finance,Security,Family-Oriented,High Networth Individuals
+CUS0727,Customer 727,42,Non-binary,Perth,23780.24,Passive,Finance,Customer Service,Family-Oriented,High Networth Individuals
+CUS0728,Customer 728,20,Female,Sydney,23493.64,Active,Tech,Customer Service,Student,Students
+CUS0729,Customer 729,55,Male,Brisbane,7371.76,Passive,Travel,Convenience,Student,Frequent traveller
+CUS0730,Customer 730,29,Male,Sydney,29111.83,Passive,Music,Security,Single,Single
+CUS0731,Customer 731,64,Female,Melbourne,7486.23,Passive,Travel,Convenience,Business Owner,Tech savvy customer
+CUS0732,Customer 732,42,Male,Sydney,45050.45,Passive,Music,Customer Service,Single,High Networth Individuals
+CUS0733,Customer 733,65,Male,Melbourne,19425.49,Active,Fashion,Security,Family-Oriented,High Networth Individuals
+CUS0734,Customer 734,21,Non-binary,Perth,7595.62,Passive,Music,Customer Service,Single,Students
+CUS0735,Customer 735,64,Female,Sydney,27787.73,Active,Travel,Customer Service,Student,High Networth Individuals
+CUS0736,Customer 736,54,Male,Perth,48501.86,Active,Finance,Customer Service,Single,High Networth Individuals
+CUS0737,Customer 737,55,Male,Sydney,28885.92,Passive,Fashion,Customer Service,Family-Oriented,High Networth Individuals
+CUS0738,Customer 738,80,Female,Melbourne,10961.88,Passive,Fashion,Customer Service,Business Owner,Family
+CUS0739,Customer 739,49,Non-binary,Hobart,40795.26,Passive,Travel,Customer Service,Business Owner,High Networth Individuals
+CUS0740,Customer 740,79,Male,Perth,43331.2,Active,Sports,Innovation,Retired,High Networth Individuals
+CUS0741,Customer 741,77,Female,Perth,13343.92,Passive,Finance,Low Fees,Family-Oriented,Frequent traveller
+CUS0742,Customer 742,45,Non-binary,Hobart,42053.27,Active,Finance,Security,Business Owner,High Networth Individuals
+CUS0743,Customer 743,37,Non-binary,Adelaide,14617.87,Passive,Tech,Customer Service,Single,High Networth Individuals
+CUS0744,Customer 744,77,Male,Perth,8824.5,Active,Travel,Convenience,Family-Oriented,Tech savvy customer
+CUS0745,Customer 745,56,Male,Adelaide,22448.42,Active,Travel,Customer Service,Business Owner,Small business
+CUS0746,Customer 746,67,Non-binary,Sydney,48268.18,Active,Finance,Low Fees,Student,High Networth Individuals
+CUS0747,Customer 747,28,Female,Perth,4718.93,Active,Sports,Convenience,Business Owner,Small business
+CUS0748,Customer 748,56,Non-binary,Perth,47011.09,Passive,Tech,Security,Family-Oriented,High Networth Individuals
+CUS0749,Customer 749,37,Female,Brisbane,16997.8,Passive,Tech,Security,Business Owner,Tech savvy customer
+CUS0750,Customer 750,43,Non-binary,Adelaide,2563.11,Passive,Sports,Low Fees,Family-Oriented,Frequent traveller
+CUS0751,Customer 751,72,Non-binary,Sydney,30516.51,Active,Sports,Innovation,Family-Oriented,High Networth Individuals
+CUS0752,Customer 752,66,Female,Perth,23831.76,Active,Finance,Convenience,Single,High Networth Individuals
+CUS0753,Customer 753,78,Female,Adelaide,49531.49,Active,Sports,Low Fees,Retired,High Networth Individuals
+CUS0754,Customer 754,32,Female,Perth,12852.11,Active,Music,Customer Service,Student,Small business
+CUS0755,Customer 755,44,Female,Adelaide,41931.03,Passive,Fashion,Security,Single,High Networth Individuals
+CUS0756,Customer 756,45,Non-binary,Perth,19295.08,Active,Travel,Innovation,Student,High Networth Individuals
+CUS0757,Customer 757,30,Female,Hobart,33204.31,Active,Tech,Innovation,Business Owner,Family
+CUS0758,Customer 758,74,Male,Adelaide,25702.69,Active,Travel,Convenience,Single,High Networth Individuals
+CUS0759,Customer 759,59,Male,Sydney,30442.86,Active,Sports,Customer Service,Business Owner,Small business
+CUS0760,Customer 760,48,Female,Brisbane,6442.08,Passive,Tech,Convenience,Family-Oriented,Frequent traveller
+CUS0761,Customer 761,51,Non-binary,Sydney,18780.74,Active,Sports,Convenience,Family-Oriented,High Networth Individuals
+CUS0762,Customer 762,19,Non-binary,Melbourne,39414.31,Active,Finance,Innovation,Student,Students
+CUS0763,Customer 763,22,Female,Hobart,4064.34,Passive,Travel,Innovation,Single,Single
+CUS0764,Customer 764,62,Male,Hobart,22435.18,Active,Tech,Innovation,Retired,High Networth Individuals
+CUS0765,Customer 765,55,Non-binary,Sydney,17036.31,Passive,Music,Convenience,Retired,High Networth Individuals
+CUS0766,Customer 766,59,Female,Perth,15487.1,Passive,Finance,Innovation,Retired,High Networth Individuals
+CUS0767,Customer 767,49,Non-binary,Brisbane,9747.69,Active,Music,Security,Single,Single
+CUS0768,Customer 768,52,Female,Perth,3941,Active,Fashion,Convenience,Single,Young clients
+CUS0769,Customer 769,43,Non-binary,Melbourne,49288.48,Passive,Music,Convenience,Business Owner,Small business
+CUS0770,Customer 770,59,Non-binary,Brisbane,22670.38,Passive,Fashion,Low Fees,Student,High Networth Individuals
+CUS0771,Customer 771,70,Male,Sydney,18055.56,Passive,Tech,Innovation,Business Owner,Small business
+CUS0772,Customer 772,26,Female,Brisbane,7344.88,Passive,Music,Customer Service,Single,Small business
+CUS0773,Customer 773,40,Non-binary,Brisbane,41319.75,Active,Fashion,Customer Service,Family-Oriented,High Networth Individuals
+CUS0774,Customer 774,30,Male,Sydney,40057.29,Active,Music,Customer Service,Business Owner,Family
+CUS0775,Customer 775,21,Female,Melbourne,19827.33,Active,Tech,Security,Student,Students
+CUS0776,Customer 776,61,Non-binary,Sydney,49208.71,Passive,Sports,Security,Retired,High Networth Individuals
+CUS0777,Customer 777,44,Non-binary,Adelaide,49584.54,Active,Tech,Innovation,Business Owner,High Networth Individuals
+CUS0778,Customer 778,30,Female,Melbourne,40613.95,Active,Fashion,Low Fees,Single,Single
+CUS0779,Customer 779,76,Female,Brisbane,1413.45,Passive,Travel,Low Fees,Family-Oriented,Frequent traveller
+CUS0780,Customer 780,65,Non-binary,Sydney,13865.25,Passive,Sports,Convenience,Family-Oriented,Frequent traveller
+CUS0781,Customer 781,59,Male,Adelaide,47356.89,Passive,Travel,Convenience,Single,High Networth Individuals
+CUS0782,Customer 782,34,Male,Melbourne,14924.2,Active,Fashion,Convenience,Family-Oriented,High Networth Individuals
+CUS0783,Customer 783,60,Female,Adelaide,32919.6,Passive,Music,Innovation,Business Owner,Young clients
+CUS0784,Customer 784,56,Male,Perth,2445.33,Passive,Fashion,Innovation,Family-Oriented,Small business
+CUS0785,Customer 785,62,Non-binary,Adelaide,44596.49,Active,Fashion,Innovation,Family-Oriented,High Networth Individuals
+CUS0786,Customer 786,67,Female,Hobart,9509.97,Passive,Tech,Convenience,Student,Family
+CUS0787,Customer 787,26,Non-binary,Perth,21913.21,Passive,Music,Customer Service,Retired,High Networth Individuals
+CUS0788,Customer 788,59,Male,Perth,24079.47,Passive,Tech,Security,Family-Oriented,High Networth Individuals
+CUS0789,Customer 789,21,Male,Perth,20222.06,Active,Music,Convenience,Business Owner,Students
+CUS0790,Customer 790,72,Female,Adelaide,7951.75,Active,Music,Customer Service,Single,Young clients
+CUS0791,Customer 791,41,Female,Sydney,20902.52,Passive,Travel,Innovation,Single,High Networth Individuals
+CUS0792,Customer 792,28,Female,Adelaide,32894.21,Active,Travel,Innovation,Business Owner,Young clients
+CUS0793,Customer 793,38,Female,Perth,15127.78,Active,Travel,Low Fees,Student,High Networth Individuals
+CUS0794,Customer 794,34,Male,Perth,48740.22,Passive,Music,Customer Service,Business Owner,Tech savvy customer
+CUS0795,Customer 795,43,Male,Melbourne,28460.73,Passive,Fashion,Innovation,Business Owner,Frequent traveller
+CUS0796,Customer 796,74,Male,Perth,44579.97,Passive,Travel,Innovation,Single,High Networth Individuals
+CUS0797,Customer 797,33,Female,Sydney,4549.06,Active,Fashion,Customer Service,Business Owner,Small business
+CUS0798,Customer 798,64,Male,Adelaide,47476.14,Passive,Fashion,Low Fees,Retired,High Networth Individuals
+CUS0799,Customer 799,44,Male,Adelaide,26270.44,Active,Tech,Convenience,Single,High Networth Individuals
+CUS0800,Customer 800,61,Male,Brisbane,4636.18,Active,Tech,Security,Business Owner,Family
+CUS0801,Customer 801,26,Female,Melbourne,17602.89,Active,Finance,Security,Single,Single
+CUS0802,Customer 802,58,Female,Perth,10537.9,Active,Fashion,Low Fees,Student,Small business
+CUS0803,Customer 803,68,Female,Sydney,38450.45,Passive,Fashion,Low Fees,Business Owner,Small business
+CUS0804,Customer 804,70,Non-binary,Perth,12034.83,Passive,Travel,Convenience,Retired,Frequent traveller
+CUS0805,Customer 805,18,Non-binary,Hobart,45421.45,Passive,Fashion,Convenience,Student,Students
+CUS0806,Customer 806,62,Female,Adelaide,48461.77,Passive,Finance,Convenience,Retired,High Networth Individuals
+CUS0807,Customer 807,79,Non-binary,Brisbane,26118.85,Active,Finance,Innovation,Retired,High Networth Individuals
+CUS0808,Customer 808,49,Male,Adelaide,27900.08,Passive,Travel,Security,Business Owner,Frequent traveller
+CUS0809,Customer 809,33,Male,Perth,24854.63,Active,Tech,Customer Service,Student,High Networth Individuals
+CUS0810,Customer 810,50,Non-binary,Hobart,48554.91,Active,Fashion,Security,Business Owner,High Networth Individuals
+CUS0811,Customer 811,79,Female,Perth,3286.63,Passive,Sports,Low Fees,Business Owner,Small business
+CUS0812,Customer 812,73,Male,Adelaide,4992.46,Passive,Sports,Low Fees,Single,Small business
+CUS0813,Customer 813,38,Male,Adelaide,37568.63,Passive,Tech,Convenience,Single,Single
+CUS0814,Customer 814,78,Non-binary,Melbourne,2703.08,Passive,Finance,Security,Single,Small business
+CUS0815,Customer 815,62,Male,Melbourne,46215.38,Passive,Sports,Low Fees,Single,High Networth Individuals
+CUS0816,Customer 816,20,Non-binary,Brisbane,23009.42,Active,Finance,Innovation,Business Owner,High Networth Individuals
+CUS0817,Customer 817,60,Non-binary,Melbourne,5856.74,Passive,Finance,Innovation,Business Owner,Single
+CUS0818,Customer 818,21,Male,Perth,26673.29,Passive,Tech,Convenience,Single,Tech savvy customer
+CUS0819,Customer 819,55,Female,Brisbane,6318.91,Active,Travel,Innovation,Business Owner,Family
+CUS0820,Customer 820,37,Male,Perth,46022.54,Passive,Sports,Low Fees,Business Owner,High Networth Individuals
+CUS0821,Customer 821,79,Male,Perth,7779.49,Active,Fashion,Customer Service,Retired,Family
+CUS0822,Customer 822,69,Male,Hobart,28715.55,Passive,Finance,Convenience,Family-Oriented,High Networth Individuals
+CUS0823,Customer 823,53,Non-binary,Adelaide,37399.79,Passive,Sports,Innovation,Retired,High Networth Individuals
+CUS0824,Customer 824,61,Male,Sydney,44455.45,Passive,Fashion,Low Fees,Student,High Networth Individuals
+CUS0825,Customer 825,62,Female,Perth,29944.85,Passive,Fashion,Low Fees,Retired,High Networth Individuals
+CUS0826,Customer 826,64,Non-binary,Melbourne,47893.14,Active,Tech,Security,Business Owner,Small business
+CUS0827,Customer 827,42,Male,Melbourne,22002.52,Active,Music,Innovation,Retired,High Networth Individuals
+CUS0828,Customer 828,44,Male,Melbourne,30973.16,Active,Sports,Customer Service,Student,High Networth Individuals
+CUS0829,Customer 829,51,Female,Hobart,29725.06,Passive,Sports,Security,Single,High Networth Individuals
+CUS0830,Customer 830,22,Non-binary,Hobart,48153.78,Passive,Finance,Convenience,Business Owner,Small business
+CUS0831,Customer 831,55,Non-binary,Melbourne,16504.8,Active,Tech,Security,Single,High Networth Individuals
+CUS0832,Customer 832,24,Male,Adelaide,27790.64,Passive,Tech,Convenience,Single,Young clients
+CUS0833,Customer 833,46,Non-binary,Perth,18928.85,Active,Travel,Customer Service,Business Owner,Single
+CUS0834,Customer 834,36,Female,Sydney,1807.25,Active,Travel,Low Fees,Family-Oriented,Family
+CUS0835,Customer 835,76,Male,Adelaide,40445.75,Passive,Music,Security,Student,High Networth Individuals
+CUS0836,Customer 836,25,Female,Perth,14727.34,Active,Fashion,Customer Service,Family-Oriented,Young clients
+CUS0837,Customer 837,68,Non-binary,Melbourne,34420.5,Active,Music,Low Fees,Family-Oriented,High Networth Individuals
+CUS0838,Customer 838,54,Non-binary,Hobart,32942.55,Active,Fashion,Innovation,Single,High Networth Individuals
+CUS0839,Customer 839,22,Female,Melbourne,16317.42,Active,Finance,Convenience,Student,Frequent traveller
+CUS0840,Customer 840,75,Non-binary,Hobart,45029.18,Passive,Travel,Innovation,Business Owner,Frequent traveller
+CUS0841,Customer 841,47,Male,Sydney,15466.96,Active,Travel,Low Fees,Single,High Networth Individuals
+CUS0842,Customer 842,62,Female,Brisbane,29162.65,Passive,Sports,Customer Service,Retired,High Networth Individuals
+CUS0843,Customer 843,61,Female,Adelaide,46219.3,Active,Music,Customer Service,Family-Oriented,High Networth Individuals
+CUS0844,Customer 844,22,Male,Melbourne,42605.55,Passive,Tech,Customer Service,Single,Tech savvy customer
+CUS0845,Customer 845,71,Male,Hobart,8160.64,Passive,Tech,Low Fees,Retired,Family
+CUS0846,Customer 846,49,Male,Hobart,17155.65,Active,Finance,Innovation,Single,High Networth Individuals
+CUS0847,Customer 847,73,Male,Adelaide,11415.04,Passive,Finance,Low Fees,Single,High Networth Individuals
+CUS0848,Customer 848,63,Non-binary,Sydney,43281.15,Passive,Travel,Convenience,Business Owner,Young clients
+CUS0849,Customer 849,40,Male,Perth,30586.72,Active,Tech,Innovation,Business Owner,Family
+CUS0850,Customer 850,36,Female,Adelaide,11416.18,Active,Sports,Customer Service,Single,Small business
+CUS0851,Customer 851,49,Male,Sydney,35598.8,Passive,Fashion,Security,Family-Oriented,High Networth Individuals
+CUS0852,Customer 852,61,Male,Melbourne,42394.43,Passive,Music,Security,Family-Oriented,High Networth Individuals
+CUS0853,Customer 853,48,Male,Melbourne,31626.23,Active,Travel,Customer Service,Retired,High Networth Individuals
+CUS0854,Customer 854,79,Non-binary,Brisbane,8669.51,Passive,Travel,Security,Retired,Young clients
+CUS0855,Customer 855,52,Non-binary,Melbourne,31058,Active,Music,Low Fees,Student,High Networth Individuals
+CUS0856,Customer 856,80,Male,Hobart,49053.51,Active,Tech,Customer Service,Single,High Networth Individuals
+CUS0857,Customer 857,56,Female,Hobart,37636.36,Active,Tech,Low Fees,Retired,High Networth Individuals
+CUS0858,Customer 858,70,Male,Perth,48755.69,Active,Sports,Convenience,Business Owner,Small business
+CUS0859,Customer 859,40,Non-binary,Adelaide,3276.6,Passive,Tech,Convenience,Retired,Tech savvy customer
+CUS0860,Customer 860,77,Non-binary,Sydney,18911.57,Passive,Tech,Convenience,Business Owner,Small business
+CUS0861,Customer 861,19,Female,Perth,13997.28,Passive,Travel,Innovation,Single,Single
+CUS0862,Customer 862,23,Non-binary,Melbourne,18473.67,Active,Travel,Security,Single,Single
+CUS0863,Customer 863,75,Non-binary,Sydney,48741.2,Active,Travel,Low Fees,Business Owner,High Networth Individuals
+CUS0864,Customer 864,41,Male,Perth,41350.66,Active,Music,Security,Student,High Networth Individuals
+CUS0865,Customer 865,41,Male,Hobart,21850.08,Passive,Travel,Convenience,Retired,High Networth Individuals
+CUS0866,Customer 866,52,Male,Sydney,49839.83,Active,Finance,Customer Service,Business Owner,Tech savvy customer
+CUS0867,Customer 867,58,Non-binary,Melbourne,8914.59,Passive,Sports,Low Fees,Business Owner,High Networth Individuals
+CUS0868,Customer 868,25,Male,Adelaide,32418.4,Active,Finance,Customer Service,Business Owner,Small business
+CUS0869,Customer 869,59,Female,Hobart,8161.14,Passive,Music,Security,Student,Young clients
+CUS0870,Customer 870,32,Female,Adelaide,19684.13,Active,Sports,Customer Service,Student,High Networth Individuals
+CUS0871,Customer 871,22,Female,Perth,6520.88,Active,Travel,Low Fees,Business Owner,Students
+CUS0872,Customer 872,67,Male,Brisbane,14041.46,Active,Tech,Security,Student,High Networth Individuals
+CUS0873,Customer 873,59,Female,Brisbane,13488.7,Active,Fashion,Convenience,Retired,Frequent traveller
+CUS0874,Customer 874,31,Male,Melbourne,25242,Active,Music,Low Fees,Single,Single
+CUS0875,Customer 875,56,Male,Melbourne,12227.68,Passive,Sports,Customer Service,Business Owner,Family
+CUS0876,Customer 876,74,Male,Brisbane,32822,Passive,Finance,Customer Service,Single,High Networth Individuals
+CUS0877,Customer 877,28,Non-binary,Brisbane,6315.11,Active,Tech,Security,Business Owner,Small business
+CUS0878,Customer 878,46,Non-binary,Brisbane,33647.32,Active,Finance,Low Fees,Retired,High Networth Individuals
+CUS0879,Customer 879,79,Female,Sydney,3812.46,Passive,Music,Security,Student,Frequent traveller
+CUS0880,Customer 880,68,Non-binary,Brisbane,24567.46,Passive,Fashion,Convenience,Family-Oriented,High Networth Individuals
+CUS0881,Customer 881,38,Non-binary,Brisbane,30813.09,Passive,Travel,Customer Service,Family-Oriented,High Networth Individuals
+CUS0882,Customer 882,31,Non-binary,Hobart,5693.11,Passive,Travel,Innovation,Student,Tech savvy customer
+CUS0883,Customer 883,68,Non-binary,Perth,5343.15,Active,Sports,Innovation,Single,Tech savvy customer
+CUS0884,Customer 884,58,Female,Perth,27554.03,Passive,Sports,Customer Service,Business Owner,Small business
+CUS0885,Customer 885,54,Non-binary,Melbourne,4826.61,Passive,Tech,Security,Retired,Single
+CUS0886,Customer 886,46,Non-binary,Sydney,32085.99,Passive,Travel,Low Fees,Retired,High Networth Individuals
+CUS0887,Customer 887,73,Male,Perth,44668.5,Passive,Fashion,Low Fees,Business Owner,Family
+CUS0888,Customer 888,62,Non-binary,Perth,3774.77,Passive,Sports,Customer Service,Student,Young clients
+CUS0889,Customer 889,61,Non-binary,Perth,13972.29,Passive,Sports,Customer Service,Family-Oriented,High Networth Individuals
+CUS0890,Customer 890,52,Female,Adelaide,33020.43,Passive,Travel,Low Fees,Retired,High Networth Individuals
+CUS0891,Customer 891,70,Female,Brisbane,27427.63,Active,Music,Convenience,Student,High Networth Individuals
+CUS0892,Customer 892,65,Female,Hobart,2511.61,Active,Music,Security,Student,Family
+CUS0893,Customer 893,52,Female,Hobart,36818.77,Passive,Fashion,Security,Retired,High Networth Individuals
+CUS0894,Customer 894,53,Male,Adelaide,42385.26,Passive,Travel,Low Fees,Single,High Networth Individuals
+CUS0895,Customer 895,43,Female,Sydney,16019.03,Active,Fashion,Convenience,Family-Oriented,High Networth Individuals
+CUS0896,Customer 896,74,Non-binary,Melbourne,21393.63,Passive,Travel,Customer Service,Family-Oriented,High Networth Individuals
+CUS0897,Customer 897,62,Non-binary,Adelaide,33849.61,Active,Tech,Low Fees,Student,High Networth Individuals
+CUS0898,Customer 898,70,Female,Adelaide,15200.47,Active,Music,Security,Business Owner,Young clients
+CUS0899,Customer 899,70,Female,Brisbane,6808.43,Passive,Music,Innovation,Student,High Networth Individuals
+CUS0900,Customer 900,37,Female,Brisbane,6196.26,Passive,Travel,Customer Service,Single,High Networth Individuals
+CUS0901,Customer 901,80,Male,Perth,4822.44,Active,Fashion,Convenience,Single,High Networth Individuals
+CUS0902,Customer 902,73,Non-binary,Sydney,43868.82,Active,Sports,Customer Service,Single,High Networth Individuals
+CUS0903,Customer 903,77,Male,Perth,3451.8,Active,Travel,Security,Student,Tech savvy customer
+CUS0904,Customer 904,58,Non-binary,Perth,23796.14,Active,Music,Security,Family-Oriented,High Networth Individuals
+CUS0905,Customer 905,52,Non-binary,Sydney,5653.84,Active,Finance,Convenience,Student,Small business
+CUS0906,Customer 906,50,Male,Brisbane,15971.06,Passive,Fashion,Security,Retired,High Networth Individuals
+CUS0907,Customer 907,26,Non-binary,Adelaide,21904.43,Active,Finance,Customer Service,Single,High Networth Individuals
+CUS0908,Customer 908,38,Female,Brisbane,42363.06,Passive,Tech,Convenience,Single,Single
+CUS0909,Customer 909,39,Non-binary,Brisbane,28176.53,Active,Sports,Convenience,Single,Single
+CUS0910,Customer 910,36,Female,Brisbane,17881.33,Passive,Travel,Customer Service,Family-Oriented,High Networth Individuals
+CUS0911,Customer 911,74,Male,Sydney,20478.91,Passive,Sports,Security,Business Owner,Family
+CUS0912,Customer 912,40,Non-binary,Adelaide,4000.2,Active,Sports,Low Fees,Student,High Networth Individuals
+CUS0913,Customer 913,65,Non-binary,Adelaide,17909.62,Passive,Fashion,Innovation,Single,High Networth Individuals
+CUS0914,Customer 914,60,Female,Melbourne,8951.78,Passive,Sports,Convenience,Student,Small business
+CUS0915,Customer 915,31,Non-binary,Hobart,11802.83,Passive,Fashion,Low Fees,Student,Tech savvy customer
+CUS0916,Customer 916,80,Non-binary,Melbourne,5998.97,Passive,Travel,Innovation,Retired,Frequent traveller
+CUS0917,Customer 917,65,Male,Hobart,16487.29,Passive,Travel,Customer Service,Business Owner,Family
+CUS0918,Customer 918,53,Male,Brisbane,15214.47,Active,Fashion,Convenience,Business Owner,Small business
+CUS0919,Customer 919,75,Non-binary,Melbourne,12390.99,Active,Music,Low Fees,Single,Tech savvy customer
+CUS0920,Customer 920,44,Male,Hobart,31997.58,Active,Tech,Innovation,Family-Oriented,High Networth Individuals
+CUS0921,Customer 921,43,Male,Sydney,25991.98,Passive,Music,Convenience,Single,High Networth Individuals
+CUS0922,Customer 922,37,Female,Hobart,8045.37,Active,Travel,Innovation,Student,Family
+CUS0923,Customer 923,53,Non-binary,Perth,3516.15,Passive,Travel,Convenience,Business Owner,Single
+CUS0924,Customer 924,49,Male,Hobart,6450.03,Active,Finance,Customer Service,Business Owner,Small business
+CUS0925,Customer 925,50,Male,Adelaide,30930.24,Passive,Finance,Security,Business Owner,Family
+CUS0926,Customer 926,62,Male,Adelaide,16601.52,Active,Travel,Low Fees,Student,High Networth Individuals
+CUS0927,Customer 927,29,Non-binary,Sydney,11155.46,Passive,Sports,Customer Service,Retired,Tech savvy customer
+CUS0928,Customer 928,68,Female,Perth,46086.08,Active,Tech,Convenience,Retired,High Networth Individuals
+CUS0929,Customer 929,38,Male,Brisbane,1056.27,Active,Music,Convenience,Business Owner,Frequent traveller
+CUS0930,Customer 930,75,Female,Hobart,28551.48,Active,Music,Customer Service,Retired,High Networth Individuals
+CUS0931,Customer 931,50,Non-binary,Perth,10616.85,Passive,Music,Convenience,Single,Tech savvy customer
+CUS0932,Customer 932,44,Non-binary,Brisbane,41043.24,Passive,Finance,Customer Service,Student,High Networth Individuals
+CUS0933,Customer 933,68,Non-binary,Melbourne,44732.65,Active,Finance,Innovation,Family-Oriented,High Networth Individuals
+CUS0934,Customer 934,58,Male,Brisbane,18447.88,Active,Travel,Innovation,Single,High Networth Individuals
+CUS0935,Customer 935,21,Male,Sydney,3064.99,Active,Fashion,Security,Family-Oriented,Young clients
+CUS0936,Customer 936,37,Non-binary,Adelaide,39715.71,Active,Tech,Security,Single,Single
+CUS0937,Customer 937,39,Female,Perth,5295.15,Active,Fashion,Security,Family-Oriented,Young clients
+CUS0938,Customer 938,66,Female,Adelaide,33849.75,Active,Fashion,Security,Student,High Networth Individuals
+CUS0939,Customer 939,44,Female,Melbourne,26821.77,Active,Sports,Customer Service,Student,High Networth Individuals
+CUS0940,Customer 940,29,Male,Hobart,12433.88,Active,Sports,Low Fees,Family-Oriented,Young clients
+CUS0941,Customer 941,46,Female,Melbourne,4988.01,Passive,Travel,Security,Business Owner,Small business
+CUS0942,Customer 942,59,Non-binary,Sydney,3975.08,Passive,Travel,Customer Service,Single,Young clients
+CUS0943,Customer 943,77,Male,Adelaide,46747.35,Passive,Sports,Security,Student,High Networth Individuals
+CUS0944,Customer 944,26,Female,Adelaide,10405.17,Active,Music,Innovation,Retired,High Networth Individuals
+CUS0945,Customer 945,51,Male,Perth,29580.59,Active,Fashion,Security,Student,High Networth Individuals
+CUS0946,Customer 946,77,Male,Melbourne,9049.32,Active,Music,Security,Single,Frequent traveller
+CUS0947,Customer 947,63,Female,Brisbane,5637.43,Passive,Sports,Innovation,Retired,High Networth Individuals
+CUS0948,Customer 948,34,Male,Sydney,2973.48,Passive,Fashion,Convenience,Student,Tech savvy customer
+CUS0949,Customer 949,62,Female,Hobart,29977.75,Active,Finance,Innovation,Retired,High Networth Individuals
+CUS0950,Customer 950,32,Male,Sydney,44100.69,Passive,Sports,Low Fees,Business Owner,Young clients
+CUS0951,Customer 951,29,Female,Melbourne,35625.36,Passive,Finance,Innovation,Business Owner,Family
+CUS0952,Customer 952,61,Male,Adelaide,6514.33,Passive,Sports,Convenience,Retired,Family
+CUS0953,Customer 953,61,Male,Hobart,7911,Active,Fashion,Innovation,Family-Oriented,Young clients
+CUS0954,Customer 954,51,Female,Hobart,4313.99,Passive,Sports,Customer Service,Retired,Family
+CUS0955,Customer 955,52,Female,Melbourne,20701.97,Passive,Fashion,Security,Retired,High Networth Individuals
+CUS0956,Customer 956,58,Non-binary,Adelaide,36580.11,Passive,Finance,Innovation,Student,High Networth Individuals
+CUS0957,Customer 957,59,Male,Sydney,38923.26,Passive,Finance,Low Fees,Family-Oriented,High Networth Individuals
+CUS0958,Customer 958,39,Male,Brisbane,32814.21,Passive,Fashion,Innovation,Family-Oriented,High Networth Individuals
+CUS0959,Customer 959,70,Non-binary,Melbourne,22330.15,Passive,Music,Low Fees,Single,High Networth Individuals
+CUS0960,Customer 960,80,Non-binary,Sydney,20817.74,Passive,Travel,Security,Family-Oriented,High Networth Individuals
+CUS0961,Customer 961,74,Non-binary,Sydney,34349.47,Passive,Fashion,Innovation,Business Owner,Small business
+CUS0962,Customer 962,55,Non-binary,Hobart,4805.64,Active,Tech,Security,Business Owner,High Networth Individuals
+CUS0963,Customer 963,29,Male,Adelaide,31780.97,Passive,Music,Security,Student,High Networth Individuals
+CUS0964,Customer 964,73,Male,Adelaide,6765.31,Active,Tech,Security,Retired,Young clients
+CUS0965,Customer 965,50,Non-binary,Brisbane,33155.75,Active,Tech,Low Fees,Retired,High Networth Individuals
+CUS0966,Customer 966,80,Non-binary,Sydney,25370.98,Active,Music,Convenience,Family-Oriented,High Networth Individuals
+CUS0967,Customer 967,21,Female,Adelaide,6741.12,Active,Finance,Innovation,Single,Students
+CUS0968,Customer 968,30,Female,Melbourne,35773.49,Passive,Travel,Innovation,Family-Oriented,High Networth Individuals
+CUS0969,Customer 969,24,Female,Hobart,14178.33,Passive,Fashion,Low Fees,Family-Oriented,Young clients
+CUS0970,Customer 970,24,Male,Adelaide,35822.29,Active,Music,Security,Business Owner,Students
+CUS0971,Customer 971,79,Male,Brisbane,8714.5,Passive,Music,Customer Service,Business Owner,High Networth Individuals
+CUS0972,Customer 972,67,Non-binary,Hobart,45505.96,Passive,Travel,Security,Student,High Networth Individuals
+CUS0973,Customer 973,37,Non-binary,Sydney,22147.32,Passive,Finance,Convenience,Business Owner,High Networth Individuals
+CUS0974,Customer 974,23,Non-binary,Hobart,40351.88,Active,Finance,Innovation,Single,Single
+CUS0975,Customer 975,70,Non-binary,Melbourne,27576.21,Active,Tech,Low Fees,Retired,High Networth Individuals
+CUS0976,Customer 976,77,Male,Perth,38425.7,Passive,Sports,Security,Business Owner,Tech savvy customer
+CUS0977,Customer 977,61,Male,Sydney,34871.46,Active,Sports,Security,Single,High Networth Individuals
+CUS0978,Customer 978,35,Non-binary,Sydney,47325.07,Active,Tech,Convenience,Single,Single
+CUS0979,Customer 979,56,Female,Perth,3726.97,Passive,Fashion,Low Fees,Business Owner,Small business
+CUS0980,Customer 980,42,Female,Sydney,6593.73,Passive,Sports,Innovation,Student,Young clients
+CUS0981,Customer 981,56,Non-binary,Sydney,28100.93,Active,Finance,Convenience,Single,High Networth Individuals
+CUS0982,Customer 982,77,Female,Sydney,9159.97,Passive,Finance,Customer Service,Family-Oriented,Family
+CUS0983,Customer 983,73,Female,Hobart,34566.55,Active,Travel,Security,Family-Oriented,High Networth Individuals
+CUS0984,Customer 984,61,Non-binary,Melbourne,16505.92,Active,Music,Security,Family-Oriented,High Networth Individuals
+CUS0985,Customer 985,36,Non-binary,Sydney,25486.43,Passive,Tech,Convenience,Retired,High Networth Individuals
+CUS0986,Customer 986,23,Non-binary,Adelaide,25223.76,Passive,Sports,Innovation,Single,Young clients
+CUS0987,Customer 987,47,Non-binary,Melbourne,45225.44,Active,Fashion,Innovation,Student,High Networth Individuals
+CUS0988,Customer 988,55,Male,Perth,35004.17,Active,Tech,Convenience,Student,High Networth Individuals
+CUS0989,Customer 989,57,Female,Perth,15512.69,Active,Music,Convenience,Business Owner,High Networth Individuals
+CUS0990,Customer 990,64,Non-binary,Adelaide,28487.5,Active,Travel,Low Fees,Single,High Networth Individuals
+CUS0991,Customer 991,46,Non-binary,Brisbane,48863.11,Passive,Travel,Innovation,Student,High Networth Individuals
+CUS0992,Customer 992,69,Non-binary,Sydney,39829.14,Active,Travel,Customer Service,Business Owner,Frequent traveller
+CUS0993,Customer 993,34,Female,Sydney,21130.13,Active,Fashion,Innovation,Retired,High Networth Individuals
+CUS0994,Customer 994,50,Male,Perth,28357.57,Passive,Finance,Security,Business Owner,Family
+CUS0995,Customer 995,75,Female,Perth,11248.27,Passive,Fashion,Security,Retired,Family
+CUS0996,Customer 996,76,Non-binary,Sydney,9774.27,Passive,Fashion,Convenience,Business Owner,Small business
+CUS0997,Customer 997,64,Male,Sydney,20563.77,Passive,Sports,Customer Service,Family-Oriented,High Networth Individuals
+CUS0998,Customer 998,36,Female,Perth,37074.81,Active,Music,Low Fees,Business Owner,High Networth Individuals
+CUS0999,Customer 999,55,Female,Perth,46418.8,Active,Sports,Customer Service,Retired,High Networth Individuals
