@@ -2,6 +2,7 @@ from flask import Flask, request, render_template, jsonify
 from model import predict_customer_category
 from email_templates import generate_campaign_email
 
+## below template folder need to be replaced with actual location
 app = Flask(__name__,
             template_folder='C:\\Users\\r_nra\\python\\case_study\\martech\\templates',
             static_folder='C:\\Users\\r_nra\\python\\case_study\\martech\\static')
