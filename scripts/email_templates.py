@@ -3,11 +3,17 @@ import openai
 import re
 from utils import get_product_details
 
+import pickle 
+# Load the label encoders 
+with open('label_encoders_new.pkl', 'rb') as le_file: 
+    label_encoders_new = pickle.load(le_file)
+
 # Set your Azure OpenAI endpoint and API key
 openai.api_type = "azure"
 openai.api_base = "https://nat-instance.openai.azure.com/"
 openai.api_version = "2024-05-01-preview"
 openai.api_key = 'your_openai_api_key'
+
 
 def family_email_template():
     return f"""
@@ -210,24 +216,22 @@ def generate_campaign_email(target_audience):
         f"Offer: {offer_details}"
         ]
     benefit_string = "\n".join([f"> {benefit}" for benefit in benefits])
-    # Email template selection
-    if target_audience == 'Family':
-        prompt = family_email_template()
-    elif target_audience == 'Young clients':
-        prompt = young_clients_email_template()
-    elif target_audience == 'High Networth Individuals':
-        prompt = high_networth_individuals_email_template()
-    elif target_audience == 'Small business':
-        prompt = small_business_email_template()
-    elif target_audience == 'Students':
-        prompt = students_email_template()
-    elif target_audience == 'Tech savvy customer':
-        prompt = tech_savvy_customer_email_template()
-    elif target_audience == 'Frequent traveller':
-        prompt = frequent_traveller_email_template()
-    else:
-        return "Invalid target audience"
-
+# Email template selection 
+    if target_audience in [0, 'Family']: 
+        prompt = family_email_template() 
+    elif target_audience in [1, 'Young clients']: 
+        prompt = young_clients_email_template() 
+    elif target_audience in [2, 'High Networth Individuals']: 
+        prompt = high_networth_individuals_email_template() 
+    elif target_audience in [3, 'Small business']: 
+        prompt = small_business_email_template() 
+    elif target_audience in [4, 'Students']: 
+        prompt = students_email_template() 
+    elif target_audience in [5, 'Tech savvy customer']: 
+        prompt = tech_savvy_customer_email_template() 
+    elif target_audience in [6, 'Frequent traveller']: 
+        prompt = frequent_traveller_email_template() 
+    else: return "Invalid target audience"
     response = openai.Completion.create(
         engine="gpt-35-turbo",
         prompt=prompt,
